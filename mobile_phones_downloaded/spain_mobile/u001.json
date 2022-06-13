@@ -1,0 +1,38 @@
+[
+    {
+        "calling": "u001",
+        "callee": "u001v000",
+        "init_time": "2016-04-20 16:09:14",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-04-20 16:12:39",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u001v001",
+        "callee": "u001",
+        "init_time": "2016-04-23 21:13:04",
+        "answered": true,
+        "duration": 51,
+        "end_time": "2016-04-23 21:14:16",
+        "type": "incoming"
+    },
+    {
+        "calling": "u001v002",
+        "callee": "u001",
+        "init_time": "2016-05-04 13:33:32",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-05-04 13:33:45",
+        "type": "incoming"
+    },
+    {
+        "calling": "u001",
+        "callee": "u001v002",
+        "init_time": "2016-05-04 15:01:00",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-05-04 15:01:06",
+        "type": "outgoing"
+    }
+]

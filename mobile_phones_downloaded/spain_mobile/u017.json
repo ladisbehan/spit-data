@@ -1,0 +1,263 @@
+[
+    {
+        "calling": "u017v000",
+        "callee": "u017",
+        "init_time": "2016-06-10 11:39:29",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-10 11:39:34",
+        "type": "incoming"
+    },
+    {
+        "calling": "u017",
+        "callee": "u017v000",
+        "init_time": "2016-06-11 21:02:09",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-11 21:06:54",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u017",
+        "callee": "u017v001",
+        "init_time": "2016-06-13 08:33:16",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-13 08:33:26",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u017",
+        "callee": "u017v002",
+        "init_time": "2016-06-13 08:33:57",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-13 08:34:07",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u017v003",
+        "callee": "u017",
+        "init_time": "2016-06-14 09:47:33",
+        "answered": true,
+        "duration": 22,
+        "end_time": "2016-06-14 09:48:04",
+        "type": "incoming"
+    },
+    {
+        "calling": "u017v004",
+        "callee": "u017",
+        "init_time": "2016-06-15 16:33:19",
+        "answered": true,
+        "duration": 182,
+        "end_time": "2016-06-15 16:36:29",
+        "type": "incoming"
+    },
+    {
+        "calling": "u017",
+        "callee": "u017v000",
+        "init_time": "2016-06-15 16:36:29",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-15 16:36:49",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u017v005",
+        "callee": "u017",
+        "init_time": "2016-06-16 09:46:15",
+        "answered": true,
+        "duration": 459,
+        "end_time": "2016-06-16 09:54:04",
+        "type": "incoming"
+    },
+    {
+        "calling": "u017v006",
+        "callee": "u017",
+        "init_time": "2016-06-17 01:07:10",
+        "answered": true,
+        "duration": 401,
+        "end_time": "2016-06-17 01:14:11",
+        "type": "incoming"
+    },
+    {
+        "calling": "u017v007",
+        "callee": "u017",
+        "init_time": "2016-06-23 18:02:02",
+        "answered": true,
+        "duration": 551,
+        "end_time": "2016-06-23 18:11:26",
+        "type": "incoming"
+    },
+    {
+        "calling": "u017v008",
+        "callee": "u017",
+        "init_time": "2016-06-27 15:54:22",
+        "answered": true,
+        "duration": 61,
+        "end_time": "2016-06-27 15:55:33",
+        "type": "incoming"
+    },
+    {
+        "calling": "u017v009",
+        "callee": "u017",
+        "init_time": "2016-07-01 11:02:27",
+        "answered": true,
+        "duration": 75,
+        "end_time": "2016-07-01 11:03:50",
+        "type": "incoming"
+    },
+    {
+        "calling": "u017v010",
+        "callee": "u017",
+        "init_time": "2016-07-01 11:37:32",
+        "answered": true,
+        "duration": 407,
+        "end_time": "2016-07-01 11:44:26",
+        "type": "incoming"
+    },
+    {
+        "calling": "u017v011",
+        "callee": "u017",
+        "init_time": "2016-07-04 15:50:27",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-07-04 15:50:34",
+        "type": "incoming"
+    },
+    {
+        "calling": "u017",
+        "callee": "u017v011",
+        "init_time": "2016-07-04 15:51:29",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-07-04 15:51:47",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u017",
+        "callee": "u017v011",
+        "init_time": "2016-07-04 17:57:41",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-07-04 17:57:50",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u017v012",
+        "callee": "u017",
+        "init_time": "2016-07-04 19:57:46",
+        "answered": true,
+        "duration": 80,
+        "end_time": "2016-07-04 19:59:15",
+        "type": "incoming"
+    },
+    {
+        "calling": "u017v008",
+        "callee": "u017",
+        "init_time": "2016-07-05 09:13:44",
+        "answered": true,
+        "duration": 153,
+        "end_time": "2016-07-05 09:16:24",
+        "type": "incoming"
+    },
+    {
+        "calling": "u017v013",
+        "callee": "u017",
+        "init_time": "2016-07-06 07:29:49",
+        "answered": true,
+        "duration": 5,
+        "end_time": "2016-07-06 07:30:02",
+        "type": "incoming"
+    },
+    {
+        "calling": "u017v014",
+        "callee": "u017",
+        "init_time": "2016-07-06 13:28:31",
+        "answered": true,
+        "duration": 123,
+        "end_time": "2016-07-06 13:30:41",
+        "type": "incoming"
+    },
+    {
+        "calling": "u017",
+        "callee": "u017v015",
+        "init_time": "2016-07-07 16:43:16",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-07-07 16:46:49",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u017v016",
+        "callee": "u017",
+        "init_time": "2016-07-07 19:32:15",
+        "answered": true,
+        "duration": 994,
+        "end_time": "2016-07-07 19:48:56",
+        "type": "incoming"
+    },
+    {
+        "calling": "u017",
+        "callee": "u017v012",
+        "init_time": "2016-07-08 11:39:51",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-07-08 11:40:10",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u017",
+        "callee": "u017v014",
+        "init_time": "2016-07-08 12:04:21",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-07-08 12:04:49",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u017v014",
+        "callee": "u017",
+        "init_time": "2016-07-08 12:05:42",
+        "answered": true,
+        "duration": 36,
+        "end_time": "2016-07-08 12:06:24",
+        "type": "incoming"
+    },
+    {
+        "calling": "u017v017",
+        "callee": "u017",
+        "init_time": "2016-07-10 19:20:54",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-07-10 19:21:15",
+        "type": "incoming"
+    },
+    {
+        "calling": "u017",
+        "callee": "u017v017",
+        "init_time": "2016-07-10 19:21:38",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-07-10 19:22:05",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u017",
+        "callee": "u017v017",
+        "init_time": "2016-07-10 19:24:10",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-07-10 19:24:37",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u017v017",
+        "callee": "u017",
+        "init_time": "2016-07-10 19:30:51",
+        "answered": true,
+        "duration": 453,
+        "end_time": "2016-07-10 19:38:34",
+        "type": "incoming"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "calling": "u018v000",
+        "callee": "u018",
+        "init_time": "2016-06-18 01:56:08",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-18 01:56:13",
+        "type": "incoming"
+    },
+    {
+        "calling": "u018",
+        "callee": "u018v001",
+        "init_time": "2016-06-19 03:05:50",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-19 03:07:03",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u018",
+        "callee": "u018v002",
+        "init_time": "2016-07-01 19:23:06",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-07-01 19:23:56",
+        "type": "outgoing"
+    }
+]

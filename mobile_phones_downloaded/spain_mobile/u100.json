@@ -1,0 +1,83 @@
+[
+    {
+        "calling": "u100v000",
+        "callee": "u100",
+        "init_time": "2016-06-16 19:33:21",
+        "answered": true,
+        "duration": 13,
+        "end_time": "2016-06-16 19:33:39",
+        "type": "incoming"
+    },
+    {
+        "calling": "u100",
+        "callee": "u100v001",
+        "init_time": "2016-06-18 10:03:31",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-18 10:04:25",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u100v002",
+        "callee": "u100",
+        "init_time": "2016-06-23 18:49:39",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-23 18:50:25",
+        "type": "incoming"
+    },
+    {
+        "calling": "u100v002",
+        "callee": "u100",
+        "init_time": "2016-06-23 18:51:35",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-23 18:51:48",
+        "type": "incoming"
+    },
+    {
+        "calling": "u100v003",
+        "callee": "u100",
+        "init_time": "2016-06-23 21:35:58",
+        "answered": true,
+        "duration": 17,
+        "end_time": "2016-06-23 21:36:19",
+        "type": "incoming"
+    },
+    {
+        "calling": "u100v003",
+        "callee": "u100",
+        "init_time": "2016-06-23 21:52:19",
+        "answered": true,
+        "duration": 17,
+        "end_time": "2016-06-23 21:52:43",
+        "type": "incoming"
+    },
+    {
+        "calling": "u100",
+        "callee": "u100v004",
+        "init_time": "2016-06-24 15:59:22",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-24 15:59:59",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u100v002",
+        "callee": "u100",
+        "init_time": "2016-06-25 19:33:51",
+        "answered": true,
+        "duration": 57,
+        "end_time": "2016-06-25 19:34:53",
+        "type": "incoming"
+    },
+    {
+        "calling": "u100v002",
+        "callee": "u100",
+        "init_time": "2016-06-25 21:29:35",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-25 21:29:59",
+        "type": "incoming"
+    }
+]

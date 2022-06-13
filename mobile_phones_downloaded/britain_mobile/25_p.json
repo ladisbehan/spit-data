@@ -1,0 +1,1469 @@
+[
+    {
+        "type": "outgoing",
+        "duration": 80,
+        "init_time": "2010-09-09 21:42:23",
+        "end_time": "2010-09-09 21:44:00",
+        "calling": 25,
+        "callee": 1209,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 0,
+        "init_time": "2010-09-09 22:01:08",
+        "end_time": "2010-09-09 22:01:12",
+        "calling": 25,
+        "callee": 1462,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 12,
+        "init_time": "2010-09-09 22:01:34",
+        "end_time": "2010-09-09 22:01:53",
+        "calling": 25,
+        "callee": 1463,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 4,
+        "init_time": "2010-09-09 22:24:46",
+        "end_time": "2010-09-09 22:24:57",
+        "calling": 25,
+        "callee": 1464,
+        "answered": true
+    },
+    {
+        "type": "incoming",
+        "duration": 12,
+        "init_time": "2010-09-10 14:40:35",
+        "end_time": "2010-09-10 14:40:56",
+        "calling": 1465,
+        "callee": 25,
+        "answered": true
+    },
+    {
+        "type": "incoming",
+        "duration": 29,
+        "init_time": "2010-09-10 14:46:00",
+        "end_time": "2010-09-10 14:46:37",
+        "calling": 1199,
+        "callee": 25,
+        "answered": true
+    },
+    {
+        "type": "incoming",
+        "duration": 62,
+        "init_time": "2010-09-10 14:48:17",
+        "end_time": "2010-09-10 14:49:30",
+        "calling": 1202,
+        "callee": 25,
+        "answered": true
+    },
+    {
+        "type": "incoming",
+        "duration": 9,
+        "init_time": "2010-09-10 14:55:34",
+        "end_time": "2010-09-10 14:55:48",
+        "calling": 1202,
+        "callee": 25,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 85,
+        "init_time": "2010-09-10 15:04:11",
+        "end_time": "2010-09-10 15:05:49",
+        "calling": 25,
+        "callee": 1200,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 9,
+        "init_time": "2010-09-10 15:31:14",
+        "end_time": "2010-09-10 15:31:53",
+        "calling": 25,
+        "callee": 1198,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 13,
+        "init_time": "2010-09-10 15:34:11",
+        "end_time": "2010-09-10 15:34:38",
+        "calling": 25,
+        "callee": 1198,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 64,
+        "init_time": "2010-09-10 15:40:38",
+        "end_time": "2010-09-10 15:41:57",
+        "calling": 25,
+        "callee": 1200,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 2,
+        "init_time": "2010-09-10 15:55:14",
+        "end_time": "2010-09-10 15:55:32",
+        "calling": 25,
+        "callee": 1466,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 12,
+        "init_time": "2010-09-10 15:56:10",
+        "end_time": "2010-09-10 15:56:35",
+        "calling": 25,
+        "callee": 1209,
+        "answered": true
+    },
+    {
+        "type": "missed",
+        "duration": 0,
+        "init_time": "2010-09-10 16:02:34",
+        "end_time": "2010-09-10 16:02:54",
+        "calling": 1209,
+        "callee": 25,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 55,
+        "init_time": "2010-09-10 16:03:10",
+        "end_time": "2010-09-10 16:04:30",
+        "calling": 25,
+        "callee": 1209,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 3,
+        "init_time": "2010-09-10 16:04:44",
+        "end_time": "2010-09-10 16:05:17",
+        "calling": 25,
+        "callee": 1467,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 21,
+        "init_time": "2010-09-10 16:05:27",
+        "end_time": "2010-09-10 16:06:07",
+        "calling": 25,
+        "callee": 1468,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 28,
+        "init_time": "2010-09-10 16:06:16",
+        "end_time": "2010-09-10 16:07:01",
+        "calling": 25,
+        "callee": 1469,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 23,
+        "init_time": "2010-09-10 16:07:14",
+        "end_time": "2010-09-10 16:07:51",
+        "calling": 25,
+        "callee": 1202,
+        "answered": true
+    },
+    {
+        "type": "incoming",
+        "duration": 21,
+        "init_time": "2010-09-10 16:08:00",
+        "end_time": "2010-09-10 16:08:27",
+        "calling": 1202,
+        "callee": 25,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 31,
+        "init_time": "2010-09-10 16:10:42",
+        "end_time": "2010-09-10 16:11:26",
+        "calling": 25,
+        "callee": 1470,
+        "answered": true
+    },
+    {
+        "type": "incoming",
+        "duration": 7,
+        "init_time": "2010-09-10 16:29:11",
+        "end_time": "2010-09-10 16:29:31",
+        "calling": 1470,
+        "callee": 25,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 6,
+        "init_time": "2010-09-10 16:31:54",
+        "end_time": "2010-09-10 16:32:21",
+        "calling": 25,
+        "callee": 1199,
+        "answered": true
+    },
+    {
+        "type": "incoming",
+        "duration": 22,
+        "init_time": "2010-09-10 16:33:53",
+        "end_time": "2010-09-10 16:34:24",
+        "calling": 1471,
+        "callee": 25,
+        "answered": true
+    },
+    {
+        "type": "missed",
+        "duration": 0,
+        "init_time": "2010-09-10 16:40:27",
+        "end_time": "2010-09-10 16:40:46",
+        "calling": 1209,
+        "callee": 25,
+        "answered": false
+    },
+    {
+        "type": "missed",
+        "duration": 0,
+        "init_time": "2010-09-10 17:20:37",
+        "end_time": "2010-09-10 17:20:58",
+        "calling": 1465,
+        "callee": 25,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 3,
+        "init_time": "2010-09-10 19:01:11",
+        "end_time": "2010-09-10 19:01:40",
+        "calling": 25,
+        "callee": 1465,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 1,
+        "init_time": "2010-09-10 19:03:24",
+        "end_time": "2010-09-10 19:03:54",
+        "calling": 25,
+        "callee": 1465,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 2,
+        "init_time": "2010-09-10 19:05:07",
+        "end_time": "2010-09-10 19:05:35",
+        "calling": 25,
+        "callee": 1465,
+        "answered": true
+    },
+    {
+        "type": "missed",
+        "duration": 0,
+        "init_time": "2010-09-10 19:10:09",
+        "end_time": "2010-09-10 19:10:29",
+        "calling": 1465,
+        "callee": 25,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 2,
+        "init_time": "2010-09-10 19:10:45",
+        "end_time": "2010-09-10 19:10:54",
+        "calling": 25,
+        "callee": 1465,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 45,
+        "init_time": "2010-09-10 19:11:08",
+        "end_time": "2010-09-10 19:12:04",
+        "calling": 25,
+        "callee": 1465,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 8,
+        "init_time": "2010-09-10 19:32:18",
+        "end_time": "2010-09-10 19:32:33",
+        "calling": 25,
+        "callee": 1218,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 54,
+        "init_time": "2010-09-10 19:32:37",
+        "end_time": "2010-09-10 19:33:38",
+        "calling": 25,
+        "callee": 1218,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 1,
+        "init_time": "2010-09-10 19:36:15",
+        "end_time": "2010-09-10 19:36:40",
+        "calling": 25,
+        "callee": 1465,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 235,
+        "init_time": "2010-09-10 19:32:50",
+        "end_time": "2010-09-10 19:36:49",
+        "calling": 25,
+        "callee": 1218,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 1,
+        "init_time": "2010-09-10 19:37:06",
+        "end_time": "2010-09-10 19:37:34",
+        "calling": 25,
+        "callee": 1465,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 42,
+        "init_time": "2010-09-10 19:39:54",
+        "end_time": "2010-09-10 19:40:50",
+        "calling": 25,
+        "callee": 1465,
+        "answered": true
+    },
+    {
+        "type": "incoming",
+        "duration": 0,
+        "init_time": "2010-09-10 21:06:10",
+        "end_time": "2010-09-10 21:06:22",
+        "calling": 1472,
+        "callee": 25,
+        "answered": false
+    },
+    {
+        "type": "missed",
+        "duration": 0,
+        "init_time": "2010-09-10 21:06:41",
+        "end_time": "2010-09-10 21:06:53",
+        "calling": 1472,
+        "callee": 25,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 1,
+        "init_time": "2010-09-11 11:50:55",
+        "end_time": "2010-09-11 11:51:22",
+        "calling": 25,
+        "callee": 1465,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 7,
+        "init_time": "2010-09-11 12:01:08",
+        "end_time": "2010-09-11 12:01:28",
+        "calling": 25,
+        "callee": 1473,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 2,
+        "init_time": "2010-09-11 12:01:37",
+        "end_time": "2010-09-11 12:02:05",
+        "calling": 25,
+        "callee": 1465,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 72,
+        "init_time": "2010-09-11 13:18:32",
+        "end_time": "2010-09-11 13:20:00",
+        "calling": 25,
+        "callee": 1209,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 0,
+        "init_time": "2010-09-11 18:15:14",
+        "end_time": "2010-09-11 18:15:37",
+        "calling": 25,
+        "callee": 1465,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 23,
+        "init_time": "2010-09-11 18:15:50",
+        "end_time": "2010-09-11 18:16:30",
+        "calling": 25,
+        "callee": 1474,
+        "answered": true
+    },
+    {
+        "type": "incoming",
+        "duration": 50,
+        "init_time": "2010-09-11 18:28:55",
+        "end_time": "2010-09-11 18:29:54",
+        "calling": 1216,
+        "callee": 25,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 2,
+        "init_time": "2010-09-11 19:15:50",
+        "end_time": "2010-09-11 19:16:23",
+        "calling": 25,
+        "callee": 1200,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 3,
+        "init_time": "2010-09-11 19:16:26",
+        "end_time": "2010-09-11 19:16:59",
+        "calling": 25,
+        "callee": 1200,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 14,
+        "init_time": "2010-09-11 19:17:01",
+        "end_time": "2010-09-11 19:17:45",
+        "calling": 25,
+        "callee": 1200,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 0,
+        "init_time": "2010-09-11 19:22:59",
+        "end_time": "2010-09-11 19:23:24",
+        "calling": 25,
+        "callee": 1200,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 0,
+        "init_time": "2010-09-11 19:28:51",
+        "end_time": "2010-09-11 19:29:22",
+        "calling": 25,
+        "callee": 1200,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 14,
+        "init_time": "2010-09-11 19:39:04",
+        "end_time": "2010-09-11 19:39:49",
+        "calling": 25,
+        "callee": 1200,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 4,
+        "init_time": "2010-09-11 20:05:25",
+        "end_time": "2010-09-11 20:05:59",
+        "calling": 25,
+        "callee": 1200,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 9,
+        "init_time": "2010-09-11 20:41:12",
+        "end_time": "2010-09-11 20:41:52",
+        "calling": 25,
+        "callee": 1200,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 211,
+        "init_time": "2010-09-11 20:45:45",
+        "end_time": "2010-09-11 20:49:27",
+        "calling": 25,
+        "callee": 1200,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 527,
+        "init_time": "2010-09-11 20:49:38",
+        "end_time": "2010-09-11 20:58:36",
+        "calling": 25,
+        "callee": 1200,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 52,
+        "init_time": "2010-09-11 22:20:43",
+        "end_time": "2010-09-11 22:21:50",
+        "calling": 25,
+        "callee": 1216,
+        "answered": true
+    },
+    {
+        "type": "incoming",
+        "duration": 22,
+        "init_time": "2010-09-11 22:32:37",
+        "end_time": "2010-09-11 22:33:05",
+        "calling": 1216,
+        "callee": 25,
+        "answered": true
+    },
+    {
+        "type": "incoming",
+        "duration": 29,
+        "init_time": "2010-09-12 09:51:06",
+        "end_time": "2010-09-12 09:51:42",
+        "calling": 1216,
+        "callee": 25,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 2,
+        "init_time": "2010-09-12 13:24:15",
+        "end_time": "2010-09-12 13:24:43",
+        "calling": 25,
+        "callee": 1465,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 82,
+        "init_time": "2010-09-12 13:24:52",
+        "end_time": "2010-09-12 13:26:34",
+        "calling": 25,
+        "callee": 1209,
+        "answered": true
+    },
+    {
+        "type": "incoming",
+        "duration": 85,
+        "init_time": "2010-09-12 14:40:40",
+        "end_time": "2010-09-12 14:42:10",
+        "calling": 1465,
+        "callee": 25,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 0,
+        "init_time": "2010-09-12 14:46:15",
+        "end_time": "2010-09-12 14:46:19",
+        "calling": 25,
+        "callee": 1209,
+        "answered": false
+    },
+    {
+        "type": "incoming",
+        "duration": 200,
+        "init_time": "2010-09-12 15:00:48",
+        "end_time": "2010-09-12 15:04:20",
+        "calling": 1200,
+        "callee": 25,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 2,
+        "init_time": "2010-09-12 15:43:41",
+        "end_time": "2010-09-12 15:44:11",
+        "calling": 25,
+        "callee": 1465,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 3,
+        "init_time": "2010-09-12 15:44:45",
+        "end_time": "2010-09-12 15:45:10",
+        "calling": 25,
+        "callee": 1465,
+        "answered": true
+    },
+    {
+        "type": "incoming",
+        "duration": 32,
+        "init_time": "2010-09-12 15:45:20",
+        "end_time": "2010-09-12 15:45:55",
+        "calling": 1465,
+        "callee": 25,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 40,
+        "init_time": "2010-09-12 15:45:12",
+        "end_time": "2010-09-12 15:46:01",
+        "calling": 25,
+        "callee": 1465,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 0,
+        "init_time": "2010-09-12 15:47:23",
+        "end_time": "2010-09-12 15:47:44",
+        "calling": 25,
+        "callee": 1209,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 0,
+        "init_time": "2010-09-12 15:47:56",
+        "end_time": "2010-09-12 15:48:01",
+        "calling": 25,
+        "callee": 1475,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 0,
+        "init_time": "2010-09-12 15:48:10",
+        "end_time": "2010-09-12 15:48:14",
+        "calling": 25,
+        "callee": 1475,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 0,
+        "init_time": "2010-09-12 15:50:38",
+        "end_time": "2010-09-12 15:51:08",
+        "calling": 25,
+        "callee": 1209,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 34,
+        "init_time": "2010-09-12 15:51:10",
+        "end_time": "2010-09-12 15:51:56",
+        "calling": 25,
+        "callee": 1475,
+        "answered": true
+    },
+    {
+        "type": "incoming",
+        "duration": 23,
+        "init_time": "2010-09-12 16:15:33",
+        "end_time": "2010-09-12 16:16:01",
+        "calling": 1465,
+        "callee": 25,
+        "answered": true
+    },
+    {
+        "type": "incoming",
+        "duration": 9,
+        "init_time": "2010-09-12 16:23:16",
+        "end_time": "2010-09-12 16:23:45",
+        "calling": 1209,
+        "callee": 25,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 1,
+        "init_time": "2010-09-13 14:13:40",
+        "end_time": "2010-09-13 14:14:09",
+        "calling": 25,
+        "callee": 1242,
+        "answered": true
+    },
+    {
+        "type": "missed",
+        "duration": 0,
+        "init_time": "2010-09-13 21:18:06",
+        "end_time": "2010-09-13 21:18:27",
+        "calling": 1023,
+        "callee": 25,
+        "answered": false
+    },
+    {
+        "type": "missed",
+        "duration": 0,
+        "init_time": "2010-09-14 07:29:48",
+        "end_time": "2010-09-14 07:30:07",
+        "calling": 1242,
+        "callee": 25,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 2,
+        "init_time": "2010-09-14 07:31:19",
+        "end_time": "2010-09-14 07:31:28",
+        "calling": 25,
+        "callee": 1242,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 30,
+        "init_time": "2010-09-14 07:32:56",
+        "end_time": "2010-09-14 07:33:40",
+        "calling": 25,
+        "callee": 1095,
+        "answered": true
+    },
+    {
+        "type": "missed",
+        "duration": 0,
+        "init_time": "2010-09-14 12:30:07",
+        "end_time": "2010-09-14 12:30:28",
+        "calling": 1217,
+        "callee": 25,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 6,
+        "init_time": "2010-09-14 12:55:09",
+        "end_time": "2010-09-14 12:55:21",
+        "calling": 25,
+        "callee": 1085,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 2,
+        "init_time": "2010-09-14 14:49:22",
+        "end_time": "2010-09-14 14:49:52",
+        "calling": 25,
+        "callee": 1242,
+        "answered": true
+    },
+    {
+        "type": "missed",
+        "duration": 0,
+        "init_time": "2010-09-14 15:47:57",
+        "end_time": "2010-09-14 15:48:17",
+        "calling": 1242,
+        "callee": 25,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 2,
+        "init_time": "2010-09-14 16:01:38",
+        "end_time": "2010-09-14 16:02:10",
+        "calling": 25,
+        "callee": 1216,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 4,
+        "init_time": "2010-09-14 16:32:59",
+        "end_time": "2010-09-14 16:33:35",
+        "calling": 25,
+        "callee": 1216,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 24,
+        "init_time": "2010-09-14 17:36:44",
+        "end_time": "2010-09-14 17:37:25",
+        "calling": 25,
+        "callee": 1216,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 64,
+        "init_time": "2010-09-14 17:38:29",
+        "end_time": "2010-09-14 17:39:49",
+        "calling": 25,
+        "callee": 1238,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 5,
+        "init_time": "2010-09-14 17:45:50",
+        "end_time": "2010-09-14 17:46:05",
+        "calling": 25,
+        "callee": 1200,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 2,
+        "init_time": "2010-09-14 17:48:10",
+        "end_time": "2010-09-14 17:48:37",
+        "calling": 25,
+        "callee": 1200,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 23,
+        "init_time": "2010-09-14 17:48:40",
+        "end_time": "2010-09-14 17:49:18",
+        "calling": 25,
+        "callee": 1216,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 14,
+        "init_time": "2010-09-14 17:49:22",
+        "end_time": "2010-09-14 17:50:01",
+        "calling": 25,
+        "callee": 1200,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 0,
+        "init_time": "2010-09-14 17:49:47",
+        "end_time": "2010-09-14 17:50:11",
+        "calling": 25,
+        "callee": 1200,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 2,
+        "init_time": "2010-09-14 17:51:39",
+        "end_time": "2010-09-14 17:52:09",
+        "calling": 25,
+        "callee": 1200,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 0,
+        "init_time": "2010-09-14 17:52:15",
+        "end_time": "2010-09-14 17:52:20",
+        "calling": 25,
+        "callee": 1200,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 7,
+        "init_time": "2010-09-14 17:53:25",
+        "end_time": "2010-09-14 17:53:49",
+        "calling": 25,
+        "callee": 1200,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 0,
+        "init_time": "2010-09-14 17:53:53",
+        "end_time": "2010-09-14 17:54:00",
+        "calling": 25,
+        "callee": 1200,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 14,
+        "init_time": "2010-09-14 17:54:06",
+        "end_time": "2010-09-14 17:54:34",
+        "calling": 25,
+        "callee": 1200,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 5,
+        "init_time": "2010-09-14 17:55:25",
+        "end_time": "2010-09-14 17:55:39",
+        "calling": 25,
+        "callee": 1200,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 2,
+        "init_time": "2010-09-14 17:55:45",
+        "end_time": "2010-09-14 17:55:58",
+        "calling": 25,
+        "callee": 1200,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 16,
+        "init_time": "2010-09-14 17:58:58",
+        "end_time": "2010-09-14 17:59:39",
+        "calling": 25,
+        "callee": 1200,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 3,
+        "init_time": "2010-09-14 17:59:49",
+        "end_time": "2010-09-14 18:00:03",
+        "calling": 25,
+        "callee": 1200,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 1,
+        "init_time": "2010-09-14 18:00:08",
+        "end_time": "2010-09-14 18:00:22",
+        "calling": 25,
+        "callee": 1200,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 0,
+        "init_time": "2010-09-14 18:00:25",
+        "end_time": "2010-09-14 18:00:41",
+        "calling": 25,
+        "callee": 1200,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 0,
+        "init_time": "2010-09-14 18:00:45",
+        "end_time": "2010-09-14 18:01:07",
+        "calling": 25,
+        "callee": 1200,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 0,
+        "init_time": "2010-09-14 18:01:09",
+        "end_time": "2010-09-14 18:01:25",
+        "calling": 25,
+        "callee": 1200,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 0,
+        "init_time": "2010-09-14 18:01:29",
+        "end_time": "2010-09-14 18:01:51",
+        "calling": 25,
+        "callee": 1200,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 0,
+        "init_time": "2010-09-14 18:01:59",
+        "end_time": "2010-09-14 18:02:09",
+        "calling": 25,
+        "callee": 1200,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 219,
+        "init_time": "2010-09-14 18:03:09",
+        "end_time": "2010-09-14 18:07:01",
+        "calling": 25,
+        "callee": 1200,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 2,
+        "init_time": "2010-09-14 18:14:57",
+        "end_time": "2010-09-14 18:15:31",
+        "calling": 25,
+        "callee": 1216,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 1,
+        "init_time": "2010-09-14 19:53:06",
+        "end_time": "2010-09-14 19:53:33",
+        "calling": 25,
+        "callee": 1226,
+        "answered": true
+    },
+    {
+        "type": "incoming",
+        "duration": 31,
+        "init_time": "2010-09-14 20:24:39",
+        "end_time": "2010-09-14 20:25:18",
+        "calling": 1226,
+        "callee": 25,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 51,
+        "init_time": "2010-09-14 20:25:39",
+        "end_time": "2010-09-14 20:26:36",
+        "calling": 25,
+        "callee": 1085,
+        "answered": true
+    },
+    {
+        "type": "incoming",
+        "duration": 48,
+        "init_time": "2010-09-14 21:28:58",
+        "end_time": "2010-09-14 21:29:55",
+        "calling": 1242,
+        "callee": 25,
+        "answered": true
+    },
+    {
+        "type": "missed",
+        "duration": 0,
+        "init_time": "2010-09-15 07:39:53",
+        "end_time": "2010-09-15 07:40:13",
+        "calling": 1242,
+        "callee": 25,
+        "answered": false
+    },
+    {
+        "type": "missed",
+        "duration": 0,
+        "init_time": "2010-09-15 15:00:06",
+        "end_time": "2010-09-15 15:00:27",
+        "calling": 1173,
+        "callee": 25,
+        "answered": false
+    },
+    {
+        "type": "missed",
+        "duration": 0,
+        "init_time": "2010-09-15 15:00:45",
+        "end_time": "2010-09-15 15:01:06",
+        "calling": 1173,
+        "callee": 25,
+        "answered": false
+    },
+    {
+        "type": "missed",
+        "duration": 0,
+        "init_time": "2010-09-15 15:01:20",
+        "end_time": "2010-09-15 15:01:29",
+        "calling": 1173,
+        "callee": 25,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 70,
+        "init_time": "2010-09-15 17:32:40",
+        "end_time": "2010-09-15 17:34:05",
+        "calling": 25,
+        "callee": 1200,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 10,
+        "init_time": "2010-09-15 17:55:20",
+        "end_time": "2010-09-15 17:55:43",
+        "calling": 25,
+        "callee": 1242,
+        "answered": true
+    },
+    {
+        "type": "incoming",
+        "duration": 6,
+        "init_time": "2010-09-15 18:40:39",
+        "end_time": "2010-09-15 18:40:51",
+        "calling": 1242,
+        "callee": 25,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 25,
+        "init_time": "2010-09-15 18:44:13",
+        "end_time": "2010-09-15 18:44:59",
+        "calling": 25,
+        "callee": 1476,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 1,
+        "init_time": "2010-09-15 20:35:43",
+        "end_time": "2010-09-15 20:35:52",
+        "calling": 25,
+        "callee": 1095,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 2,
+        "init_time": "2010-09-15 20:46:46",
+        "end_time": "2010-09-15 20:46:55",
+        "calling": 25,
+        "callee": 1095,
+        "answered": true
+    },
+    {
+        "type": "missed",
+        "duration": 0,
+        "init_time": "2010-09-15 20:53:17",
+        "end_time": "2010-09-15 20:53:38",
+        "calling": 1095,
+        "callee": 25,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 3,
+        "init_time": "2010-09-15 21:03:36",
+        "end_time": "2010-09-15 21:04:05",
+        "calling": 25,
+        "callee": 1095,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 1,
+        "init_time": "2010-09-15 21:04:42",
+        "end_time": "2010-09-15 21:05:10",
+        "calling": 25,
+        "callee": 1095,
+        "answered": true
+    },
+    {
+        "type": "missed",
+        "duration": 0,
+        "init_time": "2010-09-15 21:11:48",
+        "end_time": "2010-09-15 21:12:09",
+        "calling": 1095,
+        "callee": 25,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 1,
+        "init_time": "2010-09-15 21:15:40",
+        "end_time": "2010-09-15 21:16:07",
+        "calling": 25,
+        "callee": 1095,
+        "answered": true
+    },
+    {
+        "type": "missed",
+        "duration": 0,
+        "init_time": "2010-09-15 21:16:18",
+        "end_time": "2010-09-15 21:16:39",
+        "calling": 1095,
+        "callee": 25,
+        "answered": false
+    },
+    {
+        "type": "incoming",
+        "duration": 0,
+        "init_time": "2010-09-15 21:22:50",
+        "end_time": "2010-09-15 21:22:54",
+        "calling": 1095,
+        "callee": 25,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 13,
+        "init_time": "2010-09-15 21:22:14",
+        "end_time": "2010-09-15 21:22:57",
+        "calling": 25,
+        "callee": 1095,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 181,
+        "init_time": "2010-09-15 21:23:03",
+        "end_time": "2010-09-15 21:26:19",
+        "calling": 25,
+        "callee": 1095,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 80,
+        "init_time": "2010-09-15 21:28:11",
+        "end_time": "2010-09-15 21:29:51",
+        "calling": 25,
+        "callee": 1095,
+        "answered": true
+    },
+    {
+        "type": "missed",
+        "duration": 0,
+        "init_time": "2010-09-16 07:36:44",
+        "end_time": "2010-09-16 07:37:04",
+        "calling": 1242,
+        "callee": 25,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 25,
+        "init_time": "2010-09-16 14:01:23",
+        "end_time": "2010-09-16 14:02:05",
+        "calling": 25,
+        "callee": 1242,
+        "answered": true
+    },
+    {
+        "type": "missed",
+        "duration": 0,
+        "init_time": "2010-09-16 17:12:14",
+        "end_time": "2010-09-16 17:12:34",
+        "calling": 1209,
+        "callee": 25,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 0,
+        "init_time": "2010-09-16 17:32:33",
+        "end_time": "2010-09-16 17:33:11",
+        "calling": 25,
+        "callee": 1209,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 43,
+        "init_time": "2010-09-16 17:33:38",
+        "end_time": "2010-09-16 17:34:39",
+        "calling": 25,
+        "callee": 1475,
+        "answered": true
+    },
+    {
+        "type": "incoming",
+        "duration": 53,
+        "init_time": "2010-09-16 17:59:31",
+        "end_time": "2010-09-16 18:00:34",
+        "calling": 1209,
+        "callee": 25,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 4,
+        "init_time": "2010-09-16 18:04:25",
+        "end_time": "2010-09-16 18:04:36",
+        "calling": 25,
+        "callee": 1477,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 0,
+        "init_time": "2010-09-16 18:27:35",
+        "end_time": "2010-09-16 18:27:44",
+        "calling": 25,
+        "callee": 1209,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 14,
+        "init_time": "2010-09-16 18:28:01",
+        "end_time": "2010-09-16 18:28:28",
+        "calling": 25,
+        "callee": 1478,
+        "answered": true
+    },
+    {
+        "type": "incoming",
+        "duration": 39,
+        "init_time": "2010-09-16 20:12:56",
+        "end_time": "2010-09-16 20:13:44",
+        "calling": 1470,
+        "callee": 25,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 0,
+        "init_time": "2010-09-16 20:53:12",
+        "end_time": "2010-09-16 20:53:17",
+        "calling": 25,
+        "callee": 1479,
+        "answered": false
+    },
+    {
+        "type": "incoming",
+        "duration": 6,
+        "init_time": "2010-09-17 07:30:16",
+        "end_time": "2010-09-17 07:30:34",
+        "calling": 1467,
+        "callee": 25,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 0,
+        "init_time": "2010-09-17 08:30:45",
+        "end_time": "2010-09-17 08:30:56",
+        "calling": 25,
+        "callee": 1198,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 0,
+        "init_time": "2010-09-17 14:25:54",
+        "end_time": "2010-09-17 14:26:22",
+        "calling": 25,
+        "callee": 1465,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 0,
+        "init_time": "2010-09-17 14:30:48",
+        "end_time": "2010-09-17 14:31:23",
+        "calling": 25,
+        "callee": 1209,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 2,
+        "init_time": "2010-09-17 14:31:34",
+        "end_time": "2010-09-17 14:32:02",
+        "calling": 25,
+        "callee": 1242,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 20,
+        "init_time": "2010-09-17 14:32:13",
+        "end_time": "2010-09-17 14:32:53",
+        "calling": 25,
+        "callee": 1472,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 0,
+        "init_time": "2010-09-17 14:41:18",
+        "end_time": "2010-09-17 14:41:33",
+        "calling": 25,
+        "callee": 1209,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 2,
+        "init_time": "2010-09-17 14:41:34",
+        "end_time": "2010-09-17 14:41:43",
+        "calling": 25,
+        "callee": 1242,
+        "answered": true
+    },
+    {
+        "type": "incoming",
+        "duration": 53,
+        "init_time": "2010-09-17 14:46:43",
+        "end_time": "2010-09-17 14:47:50",
+        "calling": 1209,
+        "callee": 25,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 2,
+        "init_time": "2010-09-17 14:48:00",
+        "end_time": "2010-09-17 14:48:28",
+        "calling": 25,
+        "callee": 1242,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 22,
+        "init_time": "2010-09-17 14:52:40",
+        "end_time": "2010-09-17 14:53:23",
+        "calling": 25,
+        "callee": 1242,
+        "answered": true
+    },
+    {
+        "type": "incoming",
+        "duration": 54,
+        "init_time": "2010-09-17 14:57:35",
+        "end_time": "2010-09-17 14:58:37",
+        "calling": 1465,
+        "callee": 25,
+        "answered": true
+    },
+    {
+        "type": "outgoing",
+        "duration": 206,
+        "init_time": "2010-09-17 15:38:28",
+        "end_time": "2010-09-17 15:42:20",
+        "calling": 25,
+        "callee": 1480,
+        "answered": true
+    },
+    {
+        "type": "missed",
+        "duration": 0,
+        "init_time": "2010-09-17 17:24:52",
+        "end_time": "2010-09-17 17:25:12",
+        "calling": 1217,
+        "callee": 25,
+        "answered": false
+    },
+    {
+        "type": "outgoing",
+        "duration": 54,
+        "init_time": "2010-09-17 17:31:17",
+        "end_time": "2010-09-17 17:32:25",
+        "calling": 25,
+        "callee": 1217,
+        "answered": true
+    },
+    {
+        "type": "incoming",
+        "duration": 13,
+        "init_time": "2010-09-17 17:51:35",
+        "end_time": "2010-09-17 17:52:02",
+        "calling": 1470,
+        "callee": 25,
+        "answered": true
+    }
+]

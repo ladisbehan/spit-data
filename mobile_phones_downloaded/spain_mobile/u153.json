@@ -1,0 +1,29 @@
+[
+    {
+        "calling": "u153",
+        "callee": "u153v000",
+        "init_time": "2016-06-24 15:07:37",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-24 15:08:24",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u153v001",
+        "callee": "u153",
+        "init_time": "2016-06-27 17:48:28",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-27 17:48:59",
+        "type": "incoming"
+    },
+    {
+        "calling": "u153v002",
+        "callee": "u153",
+        "init_time": "2016-07-02 13:42:49",
+        "answered": true,
+        "duration": 136,
+        "end_time": "2016-07-02 13:45:17",
+        "type": "incoming"
+    }
+]

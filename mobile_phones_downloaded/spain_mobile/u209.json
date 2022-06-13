@@ -1,0 +1,101 @@
+[
+    {
+        "calling": "u209",
+        "callee": "u209v000",
+        "init_time": "2016-06-19 20:53:58",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-19 20:54:26",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u209",
+        "callee": "u209v001",
+        "init_time": "2016-06-23 10:33:11",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-23 10:33:15",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u209",
+        "callee": "u209v001",
+        "init_time": "2016-06-23 10:34:36",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-23 10:35:24",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u209v002",
+        "callee": "u209",
+        "init_time": "2016-06-23 13:39:09",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-23 13:39:10",
+        "type": "incoming"
+    },
+    {
+        "calling": "u209",
+        "callee": "u209v003",
+        "init_time": "2016-06-27 21:43:57",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-27 21:43:59",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u209",
+        "callee": "u209v002",
+        "init_time": "2016-06-30 11:24:52",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-30 11:25:19",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u209v002",
+        "callee": "u209",
+        "init_time": "2016-06-30 11:28:45",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-30 11:29:08",
+        "type": "incoming"
+    },
+    {
+        "calling": "u209",
+        "callee": "u209v004",
+        "init_time": "2016-06-30 11:38:30",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-30 11:38:54",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u209",
+        "callee": "u209v004",
+        "init_time": "2016-07-02 12:42:51",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-07-02 12:43:43",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u209v004",
+        "callee": "u209",
+        "init_time": "2016-07-02 12:46:53",
+        "answered": true,
+        "duration": 65,
+        "end_time": "2016-07-02 12:48:15",
+        "type": "incoming"
+    },
+    {
+        "calling": "u209",
+        "callee": "u209v002",
+        "init_time": "2016-07-02 12:48:31",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-07-02 12:48:48",
+        "type": "outgoing"
+    }
+]

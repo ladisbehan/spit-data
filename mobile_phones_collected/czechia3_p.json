@@ -1,0 +1,4340 @@
+[
+    {
+        "calling": "1000",
+        "callee": 3182,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-11-15 12:21:52",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 3183,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-11-15 09:54:34",
+        "duration": 59,
+        "answered": true
+    },
+    {
+        "calling": 2734,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-11-11 16:14:42",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2734,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-11-11 15:36:51",
+        "duration": 1540,
+        "answered": true
+    },
+    {
+        "calling": 2734,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-11-11 15:32:29",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2734,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-11-11 15:27:47",
+        "duration": 233,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-11-11 14:20:57",
+        "duration": 501,
+        "answered": true
+    },
+    {
+        "calling": 3184,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-11-10 23:17:24",
+        "duration": 17,
+        "answered": true
+    },
+    {
+        "calling": 3183,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-11-09 15:09:02",
+        "duration": 20,
+        "answered": true
+    },
+    {
+        "calling": 3183,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-11-08 11:01:44",
+        "duration": 24,
+        "answered": true
+    },
+    {
+        "calling": 3183,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-11-08 11:01:08",
+        "duration": 27,
+        "answered": true
+    },
+    {
+        "calling": 2084,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-11-05 10:02:48",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 1147,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-11-04 10:41:41",
+        "duration": 709,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-11-02 20:37:03",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-11-02 13:32:55",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-11-01 17:25:17",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2034,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-10-29 20:20:06",
+        "duration": 599,
+        "answered": true
+    },
+    {
+        "calling": 3184,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-10-27 13:35:40",
+        "duration": 123,
+        "answered": true
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-10-26 11:54:11",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 3182,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-10-26 03:34:56",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2045,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-10-25 21:18:10",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-10-23 18:51:16",
+        "duration": 1058,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-10-23 18:50:50",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 1147,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-10-23 17:42:01",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2034,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-10-22 15:29:15",
+        "duration": 762,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1147,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-10-20 12:39:58",
+        "duration": 1156,
+        "answered": true
+    },
+    {
+        "calling": 3185,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-10-17 16:17:42",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 3185,
+        "type": "outgoing",
+        "contactList": false,
+        "init_time": "2018-10-17 16:11:09",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-10-13 15:27:19",
+        "duration": 461,
+        "answered": true
+    },
+    {
+        "calling": 3186,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-10-12 20:52:29",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 3186,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-10-11 21:53:04",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 3186,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-10-11 21:08:56",
+        "duration": 386,
+        "answered": true
+    },
+    {
+        "calling": 2034,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-10-11 18:58:57",
+        "duration": 1207,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2034,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-10-11 14:22:11",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 1147,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-10-10 11:28:43",
+        "duration": 885,
+        "answered": true
+    },
+    {
+        "calling": 3185,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-10-07 19:51:44",
+        "duration": 38,
+        "answered": true
+    },
+    {
+        "calling": 3185,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-10-07 17:46:20",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 3183,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-10-07 12:00:59",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 3187,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-10-05 16:28:55",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2084,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-10-05 08:46:34",
+        "duration": 28,
+        "answered": true
+    },
+    {
+        "calling": 2051,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-10-04 13:48:27",
+        "duration": 16,
+        "answered": true
+    },
+    {
+        "calling": 2084,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-10-03 08:44:29",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-10-02 14:30:45",
+        "duration": 1310,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-10-02 14:29:49",
+        "duration": 29,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-10-02 14:29:22",
+        "duration": 15,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 3188,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-30 03:00:33",
+        "duration": 320,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2084,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-29 23:21:44",
+        "duration": 78,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 3183,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-29 23:19:52",
+        "duration": 21,
+        "answered": true
+    },
+    {
+        "calling": 2084,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-28 15:52:32",
+        "duration": 17,
+        "answered": true
+    },
+    {
+        "calling": 2084,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-28 15:51:12",
+        "duration": 18,
+        "answered": true
+    },
+    {
+        "calling": 2084,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-28 14:52:03",
+        "duration": 79,
+        "answered": true
+    },
+    {
+        "calling": 2084,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-28 11:51:20",
+        "duration": 25,
+        "answered": true
+    },
+    {
+        "calling": 3189,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-09-24 12:42:52",
+        "duration": 30,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-23 18:52:34",
+        "duration": 782,
+        "answered": true
+    },
+    {
+        "calling": 1402,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-20 16:25:12",
+        "duration": 183,
+        "answered": true
+    },
+    {
+        "calling": 2084,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-19 17:17:17",
+        "duration": 17,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2034,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-18 10:01:19",
+        "duration": 374,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 3188,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-17 16:08:09",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 3190,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-17 13:48:21",
+        "duration": 874,
+        "answered": true
+    },
+    {
+        "calling": 2034,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-17 12:35:20",
+        "duration": 616,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-16 15:19:05",
+        "duration": 1073,
+        "answered": true
+    },
+    {
+        "calling": 2084,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-16 12:06:14",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-12 22:37:58",
+        "duration": 3090,
+        "answered": true
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-12 22:36:09",
+        "duration": 84,
+        "answered": true
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-12 22:06:59",
+        "duration": 1371,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-11 18:44:28",
+        "duration": 556,
+        "answered": true
+    },
+    {
+        "calling": 2084,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-11 09:19:44",
+        "duration": 6,
+        "answered": true
+    },
+    {
+        "calling": 2084,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-10 20:56:14",
+        "duration": 60,
+        "answered": true
+    },
+    {
+        "calling": 2084,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-10 17:22:15",
+        "duration": 15,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 3191,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-09 15:08:58",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2034,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-09 14:44:21",
+        "duration": 125,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1147,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-09 14:41:54",
+        "duration": 120,
+        "answered": true
+    },
+    {
+        "calling": 2084,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-09 10:24:23",
+        "duration": 13,
+        "answered": true
+    },
+    {
+        "calling": 2084,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-09 06:32:06",
+        "duration": 10,
+        "answered": true
+    },
+    {
+        "calling": 1101,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-09 00:01:00",
+        "duration": 537,
+        "answered": true
+    },
+    {
+        "calling": 1101,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-08 22:28:51",
+        "duration": 143,
+        "answered": true
+    },
+    {
+        "calling": 1101,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-08 22:19:20",
+        "duration": 66,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-08 19:01:06",
+        "duration": 124,
+        "answered": true
+    },
+    {
+        "calling": 1101,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-08 14:33:42",
+        "duration": 114,
+        "answered": true
+    },
+    {
+        "calling": 1786,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-08 13:20:34",
+        "duration": 224,
+        "answered": true
+    },
+    {
+        "calling": 2034,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-08 10:58:55",
+        "duration": 177,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2034,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-08 10:58:15",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-08 09:29:03",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 3192,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-08 01:35:21",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 3193,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-07 18:54:11",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2734,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-07 17:51:38",
+        "duration": 262,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1101,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-07 17:47:46",
+        "duration": 57,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2050,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-07 17:37:04",
+        "duration": 29,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1101,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-07 15:15:03",
+        "duration": 31,
+        "answered": true
+    },
+    {
+        "calling": 1101,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-07 14:14:07",
+        "duration": 84,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1101,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-07 14:13:31",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2050,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-07 14:03:11",
+        "duration": 23,
+        "answered": true
+    },
+    {
+        "calling": 1101,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-06 19:10:36",
+        "duration": 43,
+        "answered": true
+    },
+    {
+        "calling": 2056,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-06 18:56:07",
+        "duration": 49,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1000,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-06 18:55:48",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 1101,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-06 18:54:09",
+        "duration": 25,
+        "answered": true
+    },
+    {
+        "calling": 2076,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-06 18:13:04",
+        "duration": 48,
+        "answered": true
+    },
+    {
+        "calling": 1101,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-06 16:54:21",
+        "duration": 48,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1101,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-06 15:53:46",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 3194,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-06 15:52:54",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 1101,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-06 15:52:21",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1101,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-06 15:23:08",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1101,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-06 11:13:37",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 3195,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-06 09:27:45",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 3194,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-06 09:27:12",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2076,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-06 07:56:44",
+        "duration": 13,
+        "answered": true
+    },
+    {
+        "calling": 2056,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-06 07:01:06",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2076,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-05 12:53:48",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2076,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-05 12:53:44",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2734,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-04 17:39:17",
+        "duration": 46,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2734,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-04 17:30:40",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 1000,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-04 07:48:53",
+        "duration": 57,
+        "answered": true
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-03 18:25:49",
+        "duration": 157,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2034,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-03 17:32:42",
+        "duration": 72,
+        "answered": true
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-03 17:12:21",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-02 17:51:13",
+        "duration": 29,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1147,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-01 18:38:00",
+        "duration": 28,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-01 16:56:28",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 3196,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-01 14:13:13",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 3196,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-09-01 14:07:42",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2034,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-09-01 10:35:06",
+        "duration": 319,
+        "answered": true
+    },
+    {
+        "calling": 2734,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-31 18:46:01",
+        "duration": 231,
+        "answered": true
+    },
+    {
+        "calling": 2280,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-31 18:01:15",
+        "duration": 19,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-31 17:21:21",
+        "duration": 51,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1147,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-08-31 17:07:21",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 1147,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-08-31 14:30:18",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 1147,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-08-31 13:54:18",
+        "duration": 92,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-31 13:32:51",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 3173,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-31 00:37:24",
+        "duration": 103,
+        "answered": true
+    },
+    {
+        "calling": 3173,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-31 00:15:17",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2050,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-30 23:22:20",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2734,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-30 17:54:56",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-30 09:10:16",
+        "duration": 487,
+        "answered": true
+    },
+    {
+        "calling": 2738,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-29 21:06:43",
+        "duration": 84,
+        "answered": true
+    },
+    {
+        "calling": 2734,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-29 13:37:44",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-29 09:02:51",
+        "duration": 1056,
+        "answered": true
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-27 19:04:36",
+        "duration": 52,
+        "answered": true
+    },
+    {
+        "calling": 2048,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-27 08:55:06",
+        "duration": 44,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-26 14:45:08",
+        "duration": 17,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1147,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-08-24 19:42:40",
+        "duration": 54,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-24 19:41:58",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-24 19:40:42",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-24 10:16:06",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1000,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-24 08:06:18",
+        "duration": 309,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1147,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-08-23 14:06:53",
+        "duration": 240,
+        "answered": true
+    },
+    {
+        "calling": 2738,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-22 20:21:57",
+        "duration": 51,
+        "answered": true
+    },
+    {
+        "calling": 2052,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-21 21:08:22",
+        "duration": 16,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-21 17:40:05",
+        "duration": 364,
+        "answered": true
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-21 14:56:46",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1002,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-20 08:31:57",
+        "duration": 26,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-19 13:59:43",
+        "duration": 220,
+        "answered": true
+    },
+    {
+        "calling": 2737,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-17 21:27:31",
+        "duration": 130,
+        "answered": true
+    },
+    {
+        "calling": 2737,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-17 21:23:01",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-17 15:23:40",
+        "duration": 105,
+        "answered": true
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-17 14:31:07",
+        "duration": 890,
+        "answered": true
+    },
+    {
+        "calling": 2051,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-15 17:56:15",
+        "duration": 11,
+        "answered": true
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-15 08:48:08",
+        "duration": 947,
+        "answered": true
+    },
+    {
+        "calling": 2734,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-14 17:54:26",
+        "duration": 34,
+        "answered": true
+    },
+    {
+        "calling": 2737,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-12 00:18:19",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2737,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-11 17:24:03",
+        "duration": 67,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2036,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-08-10 20:04:41",
+        "duration": 142,
+        "answered": true
+    },
+    {
+        "calling": 2036,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-10 19:56:39",
+        "duration": 135,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2036,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-08-10 19:45:23",
+        "duration": 158,
+        "answered": true
+    },
+    {
+        "calling": 2036,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-10 19:43:20",
+        "duration": 1,
+        "answered": true
+    },
+    {
+        "calling": 2036,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-10 19:41:09",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-10 12:22:15",
+        "duration": 107,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2738,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-08-09 22:51:48",
+        "duration": 40,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 3173,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-08-09 22:51:02",
+        "duration": 29,
+        "answered": true
+    },
+    {
+        "calling": 3173,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-09 22:03:45",
+        "duration": 24,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2748,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-08-09 19:46:34",
+        "duration": 22,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2748,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-08-09 19:45:50",
+        "duration": 20,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2748,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-08-09 19:38:44",
+        "duration": 97,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2747,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-08-09 19:37:27",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2747,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-08-09 19:30:06",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-09 18:28:04",
+        "duration": 42,
+        "answered": true
+    },
+    {
+        "calling": 2747,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-09 14:58:59",
+        "duration": 84,
+        "answered": true
+    },
+    {
+        "calling": 1786,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-08 17:55:47",
+        "duration": 17,
+        "answered": true
+    },
+    {
+        "calling": 2280,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-07 17:54:18",
+        "duration": 36,
+        "answered": true
+    },
+    {
+        "calling": 2280,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-07 17:51:15",
+        "duration": 9,
+        "answered": true
+    },
+    {
+        "calling": 2734,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-06 18:19:03",
+        "duration": 13,
+        "answered": true
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-06 12:30:55",
+        "duration": 96,
+        "answered": true
+    },
+    {
+        "calling": 2738,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-06 12:11:16",
+        "duration": 12,
+        "answered": true
+    },
+    {
+        "calling": 2738,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-06 10:35:29",
+        "duration": 142,
+        "answered": true
+    },
+    {
+        "calling": 3197,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-08-06 08:52:49",
+        "duration": 16,
+        "answered": true
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-05 19:21:44",
+        "duration": 260,
+        "answered": true
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-05 18:51:21",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2737,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-04 18:02:32",
+        "duration": 43,
+        "answered": true
+    },
+    {
+        "calling": 2737,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-04 17:18:01",
+        "duration": 82,
+        "answered": true
+    },
+    {
+        "calling": 2737,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-04 11:19:15",
+        "duration": 137,
+        "answered": true
+    },
+    {
+        "calling": 2737,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-03 20:34:51",
+        "duration": 45,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-03 16:09:04",
+        "duration": 34,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1147,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-08-03 15:53:28",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 1147,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-08-03 15:52:49",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2737,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-03 09:45:15",
+        "duration": 390,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 3198,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-08-02 12:50:10",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 1000,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-08-02 11:38:22",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 3199,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-08-02 09:32:36",
+        "duration": 459,
+        "answered": true
+    },
+    {
+        "calling": 3200,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-08-01 18:16:24",
+        "duration": 31,
+        "answered": true
+    },
+    {
+        "calling": 2734,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-31 17:58:54",
+        "duration": 11,
+        "answered": true
+    },
+    {
+        "calling": 3201,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-07-31 10:18:10",
+        "duration": 55,
+        "answered": true
+    },
+    {
+        "calling": 1000,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-31 00:25:27",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1002,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-31 00:20:50",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1002,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-31 00:19:16",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1000,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-31 00:17:41",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2753,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-05-20 16:07:28",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 1188,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-03-29 18:51:03",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 3202,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-01-18 14:46:25",
+        "duration": 33,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1000,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-12-06 09:10:00",
+        "duration": 160,
+        "answered": true
+    },
+    {
+        "calling": 1598,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-12-06 02:14:40",
+        "duration": 42,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2734,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-12-06 00:23:59",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2734,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-12-05 20:20:57",
+        "duration": 13,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1598,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-12-05 19:58:34",
+        "duration": 82,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1101,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-12-05 19:56:44",
+        "duration": 89,
+        "answered": true
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-12-05 15:53:09",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2734,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-11-11 16:14:42",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2734,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-11-11 15:36:51",
+        "duration": 1540,
+        "answered": true
+    },
+    {
+        "calling": 2734,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-11-11 15:32:27",
+        "duration": 247,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2734,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-11-11 15:27:47",
+        "duration": 233,
+        "answered": true
+    },
+    {
+        "calling": 2735,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-26 20:38:09",
+        "duration": 43,
+        "answered": true
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-26 15:09:12",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2736,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-25 19:19:36",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2734,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-25 14:47:04",
+        "duration": 101,
+        "answered": true
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-07-25 12:08:20",
+        "duration": 670,
+        "answered": true
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-25 09:07:32",
+        "duration": 223,
+        "answered": true
+    },
+    {
+        "calling": 2736,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-24 15:05:02",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2736,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-23 18:23:47",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-22 10:09:53",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-22 10:02:48",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2737,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-21 20:19:35",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-21 10:58:04",
+        "duration": 102,
+        "answered": true
+    },
+    {
+        "calling": 2737,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-21 08:08:30",
+        "duration": 69,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2737,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-21 07:42:24",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2737,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-21 07:32:33",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 1147,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-20 17:46:35",
+        "duration": 45,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1147,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-20 17:46:27",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2738,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-20 15:36:08",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-20 15:36:00",
+        "duration": 59,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2738,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-20 15:35:47",
+        "duration": 1,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2045,
+        "type": "outgoing",
+        "contactList": false,
+        "init_time": "2018-07-20 15:35:21",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 1146,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-20 15:35:09",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 1002,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-20 15:33:45",
+        "duration": 65,
+        "answered": true
+    },
+    {
+        "calling": 2056,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-20 14:55:02",
+        "duration": 82,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1002,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-20 14:54:17",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2056,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-20 14:53:37",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2056,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-20 14:01:08",
+        "duration": 82,
+        "answered": true
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-07-20 08:44:37",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2739,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-19 20:12:49",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2740,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-19 15:57:31",
+        "duration": 189,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2738,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-19 15:48:07",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2053,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-19 15:47:12",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-07-19 15:41:07",
+        "duration": 324,
+        "answered": true
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-19 15:37:01",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2741,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-07-19 13:52:19",
+        "duration": 327,
+        "answered": true
+    },
+    {
+        "calling": 2738,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-18 18:29:19",
+        "duration": 498,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-18 18:26:44",
+        "duration": 152,
+        "answered": true
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-07-18 08:55:03",
+        "duration": 1339,
+        "answered": true
+    },
+    {
+        "calling": 2738,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-17 18:59:28",
+        "duration": 42,
+        "answered": true
+    },
+    {
+        "calling": 2738,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-17 18:38:09",
+        "duration": 74,
+        "answered": true
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-07-17 09:03:45",
+        "duration": 763,
+        "answered": true
+    },
+    {
+        "calling": 1002,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-16 11:22:35",
+        "duration": 38,
+        "answered": true
+    },
+    {
+        "calling": 1002,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-16 11:02:51",
+        "duration": 34,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1002,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-16 10:14:23",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-15 13:49:51",
+        "duration": 10,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1146,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-15 13:49:42",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-15 13:27:43",
+        "duration": 40,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1146,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-15 13:27:23",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-15 13:24:19",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2738,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-15 13:23:43",
+        "duration": 200,
+        "answered": true
+    },
+    {
+        "calling": 2738,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-15 13:12:16",
+        "duration": 52,
+        "answered": true
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-15 12:55:55",
+        "duration": 66,
+        "answered": true
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-15 12:30:49",
+        "duration": 198,
+        "answered": true
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-15 12:01:08",
+        "duration": 220,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1146,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-15 11:59:51",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-15 11:21:24",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2737,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-14 19:46:23",
+        "duration": 404,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1147,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-14 17:13:50",
+        "duration": 178,
+        "answered": true
+    },
+    {
+        "calling": 2738,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-14 16:21:01",
+        "duration": 247,
+        "answered": true
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-14 10:47:20",
+        "duration": 137,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1147,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-14 10:43:17",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 1146,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-14 10:34:53",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2742,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-10 22:11:22",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2740,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-10 22:06:45",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2742,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-10 22:06:33",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2045,
+        "type": "outgoing",
+        "contactList": false,
+        "init_time": "2018-07-10 21:58:15",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-07-10 19:28:59",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-07-04 18:46:42",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-07-04 18:41:12",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-04 16:35:54",
+        "duration": 52,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2034,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-04 16:31:46",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2034,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-04 16:24:45",
+        "duration": 332,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-02 20:19:39",
+        "duration": 431,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1147,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-02 20:19:34",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 1147,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-02 20:15:20",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-07-02 20:12:28",
+        "duration": 125,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1147,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-07-02 20:09:38",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-30 17:42:58",
+        "duration": 31,
+        "answered": true
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-29 23:41:01",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-29 18:16:05",
+        "duration": 244,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2045,
+        "type": "outgoing",
+        "contactList": false,
+        "init_time": "2018-06-29 16:29:11",
+        "duration": 162,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2045,
+        "type": "outgoing",
+        "contactList": false,
+        "init_time": "2018-06-29 16:24:25",
+        "duration": 84,
+        "answered": true
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-06-29 16:11:22",
+        "duration": 177,
+        "answered": true
+    },
+    {
+        "calling": 2034,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-29 14:45:25",
+        "duration": 41,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2034,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-29 14:09:20",
+        "duration": 65,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1147,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-29 14:04:34",
+        "duration": 269,
+        "answered": true
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-29 13:46:54",
+        "duration": 33,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2050,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-29 13:41:59",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-29 13:31:04",
+        "duration": 85,
+        "answered": true
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-29 11:44:52",
+        "duration": 165,
+        "answered": true
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-29 11:19:50",
+        "duration": 26,
+        "answered": true
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-29 10:32:44",
+        "duration": 150,
+        "answered": true
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-29 10:06:53",
+        "duration": 41,
+        "answered": true
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-29 10:05:06",
+        "duration": 103,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2053,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-29 10:04:38",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-29 10:02:34",
+        "duration": 73,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2034,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-29 09:57:23",
+        "duration": 29,
+        "answered": true
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-29 09:55:07",
+        "duration": 96,
+        "answered": true
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-29 09:06:01",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-29 08:52:07",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-29 08:44:51",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-29 08:44:37",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-29 08:09:46",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-29 08:03:37",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2743,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-06-28 20:03:41",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-28 19:19:02",
+        "duration": 80,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2053,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-28 17:41:57",
+        "duration": 31,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2053,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-28 17:11:27",
+        "duration": 11,
+        "answered": true
+    },
+    {
+        "calling": 2743,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-06-28 16:02:30",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-28 15:41:31",
+        "duration": 53,
+        "answered": true
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-28 09:52:42",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-06-28 09:48:55",
+        "duration": 952,
+        "answered": true
+    },
+    {
+        "calling": 2052,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-27 21:48:05",
+        "duration": 67,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-27 18:52:58",
+        "duration": 159,
+        "answered": true
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-27 16:29:10",
+        "duration": 26,
+        "answered": true
+    },
+    {
+        "calling": 2048,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-27 11:51:53",
+        "duration": 28,
+        "answered": true
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-27 11:43:49",
+        "duration": 13,
+        "answered": true
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-27 11:41:55",
+        "duration": 95,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1402,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-27 11:14:47",
+        "duration": 38,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2034,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-27 11:06:11",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 1402,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-27 11:02:43",
+        "duration": 48,
+        "answered": true
+    },
+    {
+        "calling": 1402,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-27 09:47:51",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-26 21:50:26",
+        "duration": 20,
+        "answered": true
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-26 21:38:34",
+        "duration": 176,
+        "answered": true
+    },
+    {
+        "calling": 1786,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-26 18:09:17",
+        "duration": 47,
+        "answered": true
+    },
+    {
+        "calling": 1786,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-26 17:16:52",
+        "duration": 33,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2053,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-26 17:02:43",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-26 16:25:04",
+        "duration": 311,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-26 14:54:49",
+        "duration": 109,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1146,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-26 13:42:48",
+        "duration": 38,
+        "answered": true
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-26 10:28:08",
+        "duration": 777,
+        "answered": true
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-26 10:19:24",
+        "duration": 211,
+        "answered": true
+    },
+    {
+        "calling": 2734,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-25 19:03:41",
+        "duration": 9,
+        "answered": true
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-25 14:35:55",
+        "duration": 131,
+        "answered": true
+    },
+    {
+        "calling": 1002,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-25 09:04:19",
+        "duration": 63,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2737,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-23 19:15:50",
+        "duration": 29,
+        "answered": true
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-23 18:01:38",
+        "duration": 20,
+        "answered": true
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-23 17:31:28",
+        "duration": 74,
+        "answered": true
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-23 15:34:39",
+        "duration": 339,
+        "answered": true
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-06-23 13:17:20",
+        "duration": 2243,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2053,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-23 12:54:12",
+        "duration": 629,
+        "answered": true
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-23 12:33:44",
+        "duration": 273,
+        "answered": true
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-23 12:12:38",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1786,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-22 18:47:19",
+        "duration": 73,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-22 18:19:47",
+        "duration": 30,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-22 11:50:00",
+        "duration": 33,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-22 11:36:50",
+        "duration": 71,
+        "answered": true
+    },
+    {
+        "calling": 2048,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-22 09:34:17",
+        "duration": 103,
+        "answered": true
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-20 13:17:38",
+        "duration": 94,
+        "answered": true
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-20 10:31:28",
+        "duration": 166,
+        "answered": true
+    },
+    {
+        "calling": 2053,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-20 09:29:03",
+        "duration": 342,
+        "answered": true
+    },
+    {
+        "calling": 2052,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-19 21:27:04",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2052,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-19 21:23:32",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2034,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-19 19:43:29",
+        "duration": 716,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2050,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-19 19:02:20",
+        "duration": 22,
+        "answered": true
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-19 17:17:03",
+        "duration": 227,
+        "answered": true
+    },
+    {
+        "calling": 2744,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-19 08:15:54",
+        "duration": 73,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2744,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-19 08:12:30",
+        "duration": 15,
+        "answered": true
+    },
+    {
+        "calling": 2745,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-19 08:10:10",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2746,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-19 08:06:32",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2746,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-19 08:00:40",
+        "duration": 37,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2746,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-19 07:47:12",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-18 18:34:51",
+        "duration": 412,
+        "answered": true
+    },
+    {
+        "calling": 2747,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-18 12:54:36",
+        "duration": 38,
+        "answered": true
+    },
+    {
+        "calling": 2747,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-18 12:53:15",
+        "duration": 25,
+        "answered": true
+    },
+    {
+        "calling": 2747,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-18 12:50:13",
+        "duration": 21,
+        "answered": true
+    },
+    {
+        "calling": 2744,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-18 10:37:34",
+        "duration": 36,
+        "answered": true
+    },
+    {
+        "calling": 2744,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-18 10:31:00",
+        "duration": 134,
+        "answered": true
+    },
+    {
+        "calling": 2744,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-18 08:54:54",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2748,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-15 23:55:24",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2740,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-15 20:17:38",
+        "duration": 81,
+        "answered": true
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-15 18:35:51",
+        "duration": 1129,
+        "answered": true
+    },
+    {
+        "calling": 2748,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-15 17:37:35",
+        "duration": 163,
+        "answered": true
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-06-15 17:14:56",
+        "duration": 61,
+        "answered": true
+    },
+    {
+        "calling": 2740,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-15 15:51:47",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2740,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-15 15:44:17",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-15 15:08:40",
+        "duration": 402,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1146,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-15 15:08:11",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-15 15:04:19",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 1002,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-15 08:22:02",
+        "duration": 51,
+        "answered": true
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-06-15 06:51:44",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2052,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-14 21:59:23",
+        "duration": 9,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1002,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-14 09:30:23",
+        "duration": 38,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1002,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-14 09:30:02",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2748,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-14 00:38:39",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2747,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-14 00:37:41",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2734,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-13 20:35:58",
+        "duration": 275,
+        "answered": true
+    },
+    {
+        "calling": 2742,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-13 12:44:14",
+        "duration": 113,
+        "answered": true
+    },
+    {
+        "calling": 2742,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-13 12:41:19",
+        "duration": 143,
+        "answered": true
+    },
+    {
+        "calling": 2056,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-13 09:11:22",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 1002,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-12 16:30:30",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2056,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-12 16:14:53",
+        "duration": 84,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1002,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-12 09:41:49",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2740,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-11 17:00:18",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2056,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-11 09:39:39",
+        "duration": 46,
+        "answered": true
+    },
+    {
+        "calling": 2740,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-10 17:30:46",
+        "duration": 78,
+        "answered": true
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-10 15:15:06",
+        "duration": 60,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2740,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-10 12:56:58",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2034,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-10 09:15:09",
+        "duration": 32,
+        "answered": true
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-09 18:23:32",
+        "duration": 164,
+        "answered": true
+    },
+    {
+        "calling": 2034,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-09 18:23:01",
+        "duration": 12,
+        "answered": true
+    },
+    {
+        "calling": 2740,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-08 21:45:18",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1147,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-08 14:14:31",
+        "duration": 47,
+        "answered": true
+    },
+    {
+        "calling": 2740,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-08 13:57:13",
+        "duration": 16,
+        "answered": true
+    },
+    {
+        "calling": 2280,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-07 16:09:19",
+        "duration": 77,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1147,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-07 14:52:23",
+        "duration": 168,
+        "answered": true
+    },
+    {
+        "calling": 2056,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-07 13:57:52",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2056,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-07 10:07:51",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2052,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-06 22:36:35",
+        "duration": 58,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2052,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-06 21:59:28",
+        "duration": 45,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2738,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-06 18:25:29",
+        "duration": 39,
+        "answered": true
+    },
+    {
+        "calling": 2740,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-06 18:08:37",
+        "duration": 15,
+        "answered": true
+    },
+    {
+        "calling": 2738,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-06 17:53:39",
+        "duration": 82,
+        "answered": true
+    },
+    {
+        "calling": 2740,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-06-06 17:30:28",
+        "duration": 193,
+        "answered": true
+    },
+    {
+        "calling": 2749,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-06-06 14:18:50",
+        "duration": 65,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2750,
+        "type": "outgoing",
+        "contactList": false,
+        "init_time": "2018-06-06 12:29:20",
+        "duration": 54,
+        "answered": true
+    },
+    {
+        "calling": 2750,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-06-06 12:24:17",
+        "duration": 25,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1405,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-06-05 22:34:00",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2360,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-06-02 19:33:05",
+        "duration": 13,
+        "answered": true
+    },
+    {
+        "calling": 2360,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-06-02 10:08:34",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-06-02 07:47:37",
+        "duration": 56,
+        "answered": true
+    },
+    {
+        "calling": 2360,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-06-01 13:25:43",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1405,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-05-31 23:41:27",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1402,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-05-31 10:05:27",
+        "duration": 40,
+        "answered": true
+    },
+    {
+        "calling": 1405,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-05-30 23:07:42",
+        "duration": 13,
+        "answered": true
+    },
+    {
+        "calling": 1405,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-05-30 21:52:10",
+        "duration": 51,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1405,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-05-30 21:08:47",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2734,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-05-29 15:09:47",
+        "duration": 45,
+        "answered": true
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-05-29 13:49:20",
+        "duration": 65,
+        "answered": true
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-05-29 13:44:26",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2034,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-05-29 13:43:04",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1402,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-05-29 12:49:21",
+        "duration": 52,
+        "answered": true
+    },
+    {
+        "calling": 1402,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-05-29 12:41:42",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1402,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-05-29 12:37:09",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-05-29 12:34:30",
+        "duration": 873,
+        "answered": true
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-05-29 12:33:01",
+        "duration": 19,
+        "answered": true
+    },
+    {
+        "calling": 2751,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-05-29 12:30:25",
+        "duration": 21,
+        "answered": true
+    },
+    {
+        "calling": 2045,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-05-29 08:05:31",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2752,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-05-28 15:26:18",
+        "duration": 49,
+        "answered": true
+    },
+    {
+        "calling": 2752,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-05-28 15:20:27",
+        "duration": 29,
+        "answered": true
+    },
+    {
+        "calling": 2034,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-05-28 13:26:11",
+        "duration": 61,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2034,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-05-28 13:25:13",
+        "duration": 24,
+        "answered": true
+    },
+    {
+        "calling": 2034,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-05-28 13:25:01",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2034,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-05-28 13:21:44",
+        "duration": 179,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1786,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-05-28 11:41:01",
+        "duration": 324,
+        "answered": true
+    },
+    {
+        "calling": 1786,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-05-28 11:36:29",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2034,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-05-27 11:38:15",
+        "duration": 34,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2034,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-05-27 11:20:28",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2034,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-05-27 09:38:53",
+        "duration": 256,
+        "answered": true
+    },
+    {
+        "calling": 2737,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-05-26 16:38:18",
+        "duration": 50,
+        "answered": true
+    },
+    {
+        "calling": 2737,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-05-26 16:25:50",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2737,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-05-26 16:16:53",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2034,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-05-25 15:53:39",
+        "duration": 40,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 2034,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-05-25 15:49:30",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 1146,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-05-25 15:23:08",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2753,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-05-20 16:07:28",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2754,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-05-02 05:40:17",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2754,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-05-01 08:38:03",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2754,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": false,
+        "init_time": "2018-04-30 05:50:56",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": "1000",
+        "callee": 2755,
+        "type": "outgoing",
+        "contactList": false,
+        "init_time": "2018-04-30 05:50:26",
+        "duration": 16,
+        "answered": true
+    },
+    {
+        "calling": "1000",
+        "callee": 1786,
+        "type": "outgoing",
+        "contactList": true,
+        "init_time": "2018-04-27 17:05:02",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2280,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2018-04-27 16:31:48",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2738,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2017-12-07 20:44:06",
+        "duration": 0,
+        "answered": false
+    },
+    {
+        "calling": 2738,
+        "callee": "1000",
+        "type": "incoming",
+        "contactList": true,
+        "init_time": "2017-12-07 20:24:13",
+        "duration": 0,
+        "answered": false
+    }
+]

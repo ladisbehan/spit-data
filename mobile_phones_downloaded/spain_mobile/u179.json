@@ -1,0 +1,92 @@
+[
+    {
+        "calling": "u179v000",
+        "callee": "u179",
+        "init_time": "2016-06-10 19:00:12",
+        "answered": true,
+        "duration": 51,
+        "end_time": "2016-06-10 19:01:13",
+        "type": "incoming"
+    },
+    {
+        "calling": "u179",
+        "callee": "u179v000",
+        "init_time": "2016-06-10 19:08:58",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-10 19:09:34",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u179v000",
+        "callee": "u179",
+        "init_time": "2016-06-10 19:10:07",
+        "answered": true,
+        "duration": 34,
+        "end_time": "2016-06-10 19:10:45",
+        "type": "incoming"
+    },
+    {
+        "calling": "u179v001",
+        "callee": "u179",
+        "init_time": "2016-06-11 17:18:08",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-11 17:18:37",
+        "type": "incoming"
+    },
+    {
+        "calling": "u179v000",
+        "callee": "u179",
+        "init_time": "2016-06-23 14:53:21",
+        "answered": true,
+        "duration": 643,
+        "end_time": "2016-06-23 15:04:15",
+        "type": "incoming"
+    },
+    {
+        "calling": "u179v002",
+        "callee": "u179",
+        "init_time": "2016-07-03 07:11:27",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-07-03 07:11:52",
+        "type": "incoming"
+    },
+    {
+        "calling": "u179v002",
+        "callee": "u179",
+        "init_time": "2016-07-03 07:12:19",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-07-03 07:12:50",
+        "type": "incoming"
+    },
+    {
+        "calling": "u179v003",
+        "callee": "u179",
+        "init_time": "2016-07-05 09:37:54",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-07-05 09:37:54",
+        "type": "incoming"
+    },
+    {
+        "calling": "u179",
+        "callee": "u179v003",
+        "init_time": "2016-07-09 17:42:49",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-07-09 17:44:01",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u179v004",
+        "callee": "u179",
+        "init_time": "2016-07-11 18:06:30",
+        "answered": true,
+        "duration": 10,
+        "end_time": "2016-07-11 18:07:06",
+        "type": "incoming"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "calling": "u256v000",
+        "callee": "u256",
+        "init_time": "2016-06-23 18:15:27",
+        "answered": true,
+        "duration": 13,
+        "end_time": "2016-06-23 18:15:53",
+        "type": "incoming"
+    },
+    {
+        "calling": "u256",
+        "callee": "u256v000",
+        "init_time": "2016-06-23 18:16:01",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-23 18:29:17",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u256v001",
+        "callee": "u256",
+        "init_time": "2016-06-28 11:11:22",
+        "answered": true,
+        "duration": 10,
+        "end_time": "2016-06-28 11:11:40",
+        "type": "incoming"
+    },
+    {
+        "calling": "u256",
+        "callee": "u256v001",
+        "init_time": "2016-06-28 11:11:48",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-28 11:13:18",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u256",
+        "callee": "u256v001",
+        "init_time": "2016-06-28 11:16:45",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-06-28 11:19:34",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u256v001",
+        "callee": "u256",
+        "init_time": "2016-06-28 11:23:15",
+        "answered": true,
+        "duration": 21,
+        "end_time": "2016-06-28 11:23:41",
+        "type": "incoming"
+    },
+    {
+        "calling": "u256v002",
+        "callee": "u256",
+        "init_time": "2016-07-01 18:12:07",
+        "answered": true,
+        "duration": 71,
+        "end_time": "2016-07-01 18:13:30",
+        "type": "incoming"
+    },
+    {
+        "calling": "u256v003",
+        "callee": "u256",
+        "init_time": "2016-07-07 10:58:01",
+        "answered": true,
+        "duration": 839,
+        "end_time": "2016-07-07 11:12:09",
+        "type": "incoming"
+    },
+    {
+        "calling": "u256",
+        "callee": "u256v004",
+        "init_time": "2016-07-08 17:30:46",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-07-08 17:31:20",
+        "type": "outgoing"
+    },
+    {
+        "calling": "u256",
+        "callee": "u256v004",
+        "init_time": "2016-07-08 17:31:23",
+        "answered": false,
+        "duration": 0,
+        "end_time": "2016-07-08 17:32:14",
+        "type": "outgoing"
+    }
+]

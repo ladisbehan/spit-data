@@ -1,0 +1,5139 @@
+{
+    "dateFrequency": {
+        "February": {
+            "11": {
+                "12": 5,
+                "15": 3,
+                "16": 1
+            },
+            "12": {
+                "10": 5,
+                "11": 5,
+                "13": 4,
+                "15": 5
+            },
+            "13": {
+                "9": 3,
+                "10": 4,
+                "11": 6,
+                "12": 3,
+                "13": 1,
+                "14": 9
+            },
+            "14": {
+                "10": 5,
+                "11": 17,
+                "13": 2,
+                "15": 10,
+                "16": 1
+            },
+            "15": {
+                "9": 3,
+                "10": 5,
+                "11": 2,
+                "13": 5,
+                "14": 12,
+                "15": 4
+            },
+            "18": {
+                "13": 2,
+                "14": 1
+            },
+            "19": {
+                "9": 1,
+                "10": 2,
+                "11": 6,
+                "12": 2,
+                "13": 1,
+                "14": 5,
+                "15": 3
+            },
+            "20": {
+                "11": 1,
+                "15": 2
+            },
+            "21": {
+                "9": 1,
+                "10": 1,
+                "11": 3,
+                "12": 2,
+                "13": 3,
+                "14": 1,
+                "16": 2
+            },
+            "22": {
+                "10": 1,
+                "11": 3,
+                "12": 1,
+                "13": 1,
+                "14": 2
+            },
+            "25": {
+                "12": 1,
+                "15": 6,
+                "16": 1
+            },
+            "26": {
+                "11": 2,
+                "14": 5,
+                "15": 2,
+                "16": 1
+            },
+            "28": {
+                "10": 2,
+                "11": 6,
+                "12": 1,
+                "13": 2,
+                "14": 2,
+                "15": 3
+            }
+        },
+        "March": {
+            "1": {
+                "9": 3,
+                "10": 3,
+                "11": 6,
+                "13": 1,
+                "14": 7,
+                "15": 8
+            }
+        }
+    },
+    "dateIncoming": {},
+    "dateOutgoing": {
+        "February": {
+            "11": {
+                "12": 5,
+                "15": 3,
+                "16": 1
+            },
+            "12": {
+                "10": 5,
+                "11": 5,
+                "13": 4,
+                "15": 5
+            },
+            "13": {
+                "9": 3,
+                "10": 4,
+                "11": 6,
+                "12": 3,
+                "13": 1,
+                "14": 9
+            },
+            "14": {
+                "10": 5,
+                "11": 17,
+                "13": 2,
+                "15": 10,
+                "16": 1
+            },
+            "15": {
+                "9": 3,
+                "10": 5,
+                "11": 2,
+                "13": 5,
+                "14": 12,
+                "15": 4
+            },
+            "18": {
+                "13": 2,
+                "14": 1
+            },
+            "19": {
+                "9": 1,
+                "10": 2,
+                "11": 6,
+                "12": 2,
+                "13": 1,
+                "14": 5,
+                "15": 3
+            },
+            "20": {
+                "11": 1,
+                "15": 2
+            },
+            "21": {
+                "9": 1,
+                "10": 1,
+                "11": 3,
+                "12": 2,
+                "13": 3,
+                "14": 1,
+                "16": 2
+            },
+            "22": {
+                "10": 1,
+                "11": 3,
+                "12": 1,
+                "13": 1,
+                "14": 2
+            },
+            "25": {
+                "12": 1,
+                "15": 6,
+                "16": 1
+            },
+            "26": {
+                "11": 2,
+                "14": 5,
+                "15": 2,
+                "16": 1
+            },
+            "28": {
+                "10": 2,
+                "11": 6,
+                "12": 1,
+                "13": 2,
+                "14": 2,
+                "15": 3
+            }
+        },
+        "March": {
+            "1": {
+                "9": 3,
+                "10": 3,
+                "11": 6,
+                "13": 1,
+                "14": 7,
+                "15": 8
+            }
+        }
+    },
+    "hoursIncoming": {},
+    "hoursOutgoing": {
+        "9": 11,
+        "10": 28,
+        "11": 57,
+        "12": 15,
+        "13": 22,
+        "14": 44,
+        "15": 46,
+        "16": 6
+    },
+    "overallStatistics": {
+        "total": 229,
+        "incoming": 0,
+        "outgoing": 229,
+        "answered": 116,
+        "notAnswered": 113,
+        "incomingAnswered": 0,
+        "outgoingAnswered": 116,
+        "incomingNotAnswered": 0,
+        "outgoingNotAnswered": 113,
+        "averageDuration": 68.08175862068964,
+        "incomingAverageDuration": 0,
+        "outgoingAverageDuration": 68.08175862068964
+    },
+    "answeredOrNotStats": {
+        "answeredDaysAndHours": {
+            "Sunday": {},
+            "Monday": {
+                "12": 1,
+                "13": 1,
+                "15": 5,
+                "16": 1
+            },
+            "Tuesday": {
+                "10": 1,
+                "11": 6,
+                "12": 2,
+                "13": 2,
+                "14": 2,
+                "15": 7,
+                "16": 1
+            },
+            "Wednesday": {
+                "9": 2,
+                "10": 4,
+                "11": 1,
+                "12": 2,
+                "13": 1,
+                "14": 3,
+                "15": 2
+            },
+            "Thursday": {
+                "10": 7,
+                "11": 14,
+                "12": 1,
+                "13": 3,
+                "14": 3,
+                "15": 4,
+                "16": 2
+            },
+            "Friday": {
+                "9": 5,
+                "10": 3,
+                "11": 6,
+                "13": 3,
+                "14": 15,
+                "15": 6
+            },
+            "Saturday": {}
+        },
+        "notAnsweredDaysAndHours": {
+            "Sunday": {},
+            "Monday": {
+                "12": 5,
+                "13": 1,
+                "14": 1,
+                "15": 4,
+                "16": 1
+            },
+            "Tuesday": {
+                "9": 1,
+                "10": 6,
+                "11": 7,
+                "13": 3,
+                "14": 8,
+                "15": 3
+            },
+            "Wednesday": {
+                "9": 1,
+                "11": 6,
+                "12": 1,
+                "14": 6
+            },
+            "Thursday": {
+                "9": 1,
+                "10": 1,
+                "11": 12,
+                "12": 2,
+                "13": 4,
+                "15": 9,
+                "16": 1
+            },
+            "Friday": {
+                "9": 1,
+                "10": 6,
+                "11": 5,
+                "12": 1,
+                "13": 4,
+                "14": 6,
+                "15": 6
+            },
+            "Saturday": {}
+        },
+        "incomingDaysAndHours": {
+            "Sunday": {},
+            "Monday": {},
+            "Tuesday": {},
+            "Wednesday": {},
+            "Thursday": {},
+            "Friday": {},
+            "Saturday": {}
+        },
+        "incomingAnsweredDaysAndHours": {
+            "Sunday": {},
+            "Monday": {},
+            "Tuesday": {},
+            "Wednesday": {},
+            "Thursday": {},
+            "Friday": {},
+            "Saturday": {}
+        },
+        "incomingNotAnsweredDaysAndHours": {
+            "Sunday": {},
+            "Monday": {},
+            "Tuesday": {},
+            "Wednesday": {},
+            "Thursday": {},
+            "Friday": {},
+            "Saturday": {}
+        },
+        "outgoingDaysAndHours": {
+            "Sunday": {},
+            "Monday": {
+                "12": 6,
+                "13": 2,
+                "14": 1,
+                "15": 9,
+                "16": 2
+            },
+            "Tuesday": {
+                "9": 1,
+                "10": 7,
+                "11": 13,
+                "12": 2,
+                "13": 5,
+                "14": 10,
+                "15": 10,
+                "16": 1
+            },
+            "Wednesday": {
+                "9": 3,
+                "10": 4,
+                "11": 7,
+                "12": 3,
+                "13": 1,
+                "14": 9,
+                "15": 2
+            },
+            "Thursday": {
+                "9": 1,
+                "10": 8,
+                "11": 26,
+                "12": 3,
+                "13": 7,
+                "14": 3,
+                "15": 13,
+                "16": 3
+            },
+            "Friday": {
+                "9": 6,
+                "10": 9,
+                "11": 11,
+                "12": 1,
+                "13": 7,
+                "14": 21,
+                "15": 12
+            },
+            "Saturday": {}
+        },
+        "outgoingAnsweredDaysAndHours": {
+            "Sunday": {},
+            "Monday": {
+                "12": 1,
+                "13": 1,
+                "15": 5,
+                "16": 1
+            },
+            "Tuesday": {
+                "10": 1,
+                "11": 6,
+                "12": 2,
+                "13": 2,
+                "14": 2,
+                "15": 7,
+                "16": 1
+            },
+            "Wednesday": {
+                "9": 2,
+                "10": 4,
+                "11": 1,
+                "12": 2,
+                "13": 1,
+                "14": 3,
+                "15": 2
+            },
+            "Thursday": {
+                "10": 7,
+                "11": 14,
+                "12": 1,
+                "13": 3,
+                "14": 3,
+                "15": 4,
+                "16": 2
+            },
+            "Friday": {
+                "9": 5,
+                "10": 3,
+                "11": 6,
+                "13": 3,
+                "14": 15,
+                "15": 6
+            },
+            "Saturday": {}
+        },
+        "outgoingNotAnsweredDaysAndHours": {
+            "Sunday": {},
+            "Monday": {
+                "12": 5,
+                "13": 1,
+                "14": 1,
+                "15": 4,
+                "16": 1
+            },
+            "Tuesday": {
+                "9": 1,
+                "10": 6,
+                "11": 7,
+                "13": 3,
+                "14": 8,
+                "15": 3
+            },
+            "Wednesday": {
+                "9": 1,
+                "11": 6,
+                "12": 1,
+                "14": 6
+            },
+            "Thursday": {
+                "9": 1,
+                "10": 1,
+                "11": 12,
+                "12": 2,
+                "13": 4,
+                "15": 9,
+                "16": 1
+            },
+            "Friday": {
+                "9": 1,
+                "10": 6,
+                "11": 5,
+                "12": 1,
+                "13": 4,
+                "14": 6,
+                "15": 6
+            },
+            "Saturday": {}
+        }
+    },
+    "daysIncoming": {},
+    "daysOutgoing": {
+        "Monday": 20,
+        "Tuesday": 49,
+        "Wednesday": 29,
+        "Thursday": 64,
+        "Friday": 67
+    },
+    "hoursInDaysOverall": {
+        "Sunday": {},
+        "Monday": {
+            "12": 6,
+            "13": 2,
+            "14": 1,
+            "15": 9,
+            "16": 2
+        },
+        "Tuesday": {
+            "9": 1,
+            "10": 7,
+            "11": 13,
+            "12": 2,
+            "13": 5,
+            "14": 10,
+            "15": 10,
+            "16": 1
+        },
+        "Wednesday": {
+            "9": 3,
+            "10": 4,
+            "11": 7,
+            "12": 3,
+            "13": 1,
+            "14": 9,
+            "15": 2
+        },
+        "Thursday": {
+            "9": 1,
+            "10": 8,
+            "11": 26,
+            "12": 3,
+            "13": 7,
+            "14": 3,
+            "15": 13,
+            "16": 3
+        },
+        "Friday": {
+            "9": 6,
+            "10": 9,
+            "11": 11,
+            "12": 1,
+            "13": 7,
+            "14": 21,
+            "15": 12
+        },
+        "Saturday": {}
+    },
+    "daysOverall": {
+        "Monday": 20,
+        "Tuesday": 49,
+        "Wednesday": 29,
+        "Thursday": 64,
+        "Friday": 67
+    },
+    "hoursOverall": {
+        "9": 11,
+        "10": 28,
+        "11": 57,
+        "12": 15,
+        "13": 22,
+        "14": 44,
+        "15": 46,
+        "16": 6
+    },
+    "answeredOverallDays": {
+        "Monday": 8,
+        "Tuesday": 21,
+        "Wednesday": 15,
+        "Thursday": 34,
+        "Friday": 38
+    },
+    "notAnsweredOverallDays": {
+        "Monday": 12,
+        "Tuesday": 28,
+        "Wednesday": 14,
+        "Thursday": 30,
+        "Friday": 29
+    },
+    "answeredOverallHours": {
+        "9": 7,
+        "10": 15,
+        "11": 27,
+        "12": 6,
+        "13": 10,
+        "14": 23,
+        "15": 24,
+        "16": 4
+    },
+    "notAnsweredOverallHours": {
+        "9": 4,
+        "10": 13,
+        "11": 30,
+        "12": 9,
+        "13": 12,
+        "14": 21,
+        "15": 22,
+        "16": 2
+    },
+    "averageDurationDays": {
+        "Monday": 66.46412500000001,
+        "Tuesday": 74.15147619047619,
+        "Wednesday": 65.05300000000001,
+        "Thursday": 62.815176470588234,
+        "Friday": 70.97576315789475
+    },
+    "averageDurationHours": {
+        "9": 32.921571428571426,
+        "10": 40.15846666666666,
+        "11": 74.66862962962962,
+        "12": 56.57849999999999,
+        "13": 64.4264,
+        "14": 73.1745652173913,
+        "15": 79.46829166666669,
+        "16": 118.6535
+    },
+    "averageDurationDaysAndHours": {
+        "Sunday": {},
+        "Monday": {
+            "12": 134.927,
+            "13": 28.532,
+            "15": 46.282000000000004,
+            "16": 136.844
+        },
+        "Tuesday": {
+            "10": 38.032,
+            "11": 44.657666666666664,
+            "12": 31.817,
+            "13": 47.832499999999996,
+            "14": 110.971,
+            "15": 118.96957142857143,
+            "16": 37.175
+        },
+        "Wednesday": {
+            "9": 48.248999999999995,
+            "10": 23.58275,
+            "11": 72.37,
+            "12": 58.650499999999994,
+            "13": 187.221,
+            "14": 88.32333333333334,
+            "15": 71.552
+        },
+        "Thursday": {
+            "10": 41.69085714285715,
+            "11": 54.082857142857144,
+            "12": 23.609,
+            "13": 54.72299999999999,
+            "14": 93.75333333333333,
+            "15": 79.27175,
+            "16": 150.2975
+        },
+        "Friday": {
+            "9": 26.7906,
+            "10": 59.39266666666666,
+            "11": 153.09616666666668,
+            "13": 56.22566666666666,
+            "14": 60.989533333333334,
+            "15": 63.8085
+        },
+        "Saturday": {}
+    },
+    "incomingDayFrequency": {},
+    "outgoingDayFrequency": {
+        "1": 28,
+        "11": 9,
+        "12": 19,
+        "13": 26,
+        "14": 35,
+        "15": 31,
+        "18": 3,
+        "19": 20,
+        "20": 3,
+        "21": 13,
+        "22": 8,
+        "25": 8,
+        "26": 10,
+        "28": 16
+    },
+    "incomingHourInDaysFrequency": {},
+    "outgoingHourInDaysFrequency": {
+        "1": {
+            "9": 3,
+            "10": 3,
+            "11": 6,
+            "13": 1,
+            "14": 7,
+            "15": 8
+        },
+        "11": {
+            "12": 5,
+            "15": 3,
+            "16": 1
+        },
+        "12": {
+            "10": 5,
+            "11": 5,
+            "13": 4,
+            "15": 5
+        },
+        "13": {
+            "9": 3,
+            "10": 4,
+            "11": 6,
+            "12": 3,
+            "13": 1,
+            "14": 9
+        },
+        "14": {
+            "10": 5,
+            "11": 17,
+            "13": 2,
+            "15": 10,
+            "16": 1
+        },
+        "15": {
+            "9": 3,
+            "10": 5,
+            "11": 2,
+            "13": 5,
+            "14": 12,
+            "15": 4
+        },
+        "18": {
+            "13": 2,
+            "14": 1
+        },
+        "19": {
+            "9": 1,
+            "10": 2,
+            "11": 6,
+            "12": 2,
+            "13": 1,
+            "14": 5,
+            "15": 3
+        },
+        "20": {
+            "11": 1,
+            "15": 2
+        },
+        "21": {
+            "9": 1,
+            "10": 1,
+            "11": 3,
+            "12": 2,
+            "13": 3,
+            "14": 1,
+            "16": 2
+        },
+        "22": {
+            "10": 1,
+            "11": 3,
+            "12": 1,
+            "13": 1,
+            "14": 2
+        },
+        "25": {
+            "12": 1,
+            "15": 6,
+            "16": 1
+        },
+        "26": {
+            "11": 2,
+            "14": 5,
+            "15": 2,
+            "16": 1
+        },
+        "28": {
+            "10": 2,
+            "11": 6,
+            "12": 1,
+            "13": 2,
+            "14": 2,
+            "15": 3
+        }
+    },
+    "incomingNumbers": {},
+    "outgoingNumbers": {
+        "1000055": 1,
+        "1001007": 1,
+        "1001276": 1,
+        "1001353": 1,
+        "1001355": 1,
+        "1001432": 1,
+        "1002357": 1,
+        "1003680": 1,
+        "1004302": 1,
+        "1007016": 1,
+        "1007019": 1,
+        "1007022": 2,
+        "1007042": 2,
+        "1007050": 1,
+        "1007056": 2,
+        "1007066": 2,
+        "1007073": 4,
+        "1010572": 6,
+        "1010575": 2,
+        "1010586": 7,
+        "1010620": 1,
+        "1010742": 1,
+        "1011091": 1,
+        "1011743": 1,
+        "1011947": 1,
+        "1014435": 1,
+        "1014623": 1,
+        "1014749": 1,
+        "1014770": 1,
+        "1014986": 1,
+        "1015053": 3,
+        "1015457": 1,
+        "1015464": 2,
+        "1015482": 4,
+        "1015584": 1,
+        "1015595": 2,
+        "1015608": 1,
+        "1015662": 2,
+        "1015703": 4,
+        "1015745": 1,
+        "1015760": 1,
+        "1015819": 1,
+        "1015831": 2,
+        "1015880": 3,
+        "1018644": 1,
+        "1018948": 1,
+        "1019043": 1,
+        "1019048": 1,
+        "1019303": 1,
+        "1020436": 1,
+        "1020559": 1,
+        "1020620": 1,
+        "1020626": 1,
+        "1020995": 1,
+        "1021669": 1,
+        "1021858": 1,
+        "1022001": 1,
+        "1022183": 2,
+        "1022261": 1,
+        "1022292": 1,
+        "1022527": 1,
+        "1022617": 1,
+        "1022643": 1,
+        "1022683": 2,
+        "1022736": 1,
+        "1022752": 1,
+        "1022963": 1,
+        "1022974": 3,
+        "1022979": 1,
+        "1022986": 1,
+        "1023012": 1,
+        "1023041": 1,
+        "1023675": 4,
+        "1023835": 1,
+        "1024182": 2,
+        "1025565": 1,
+        "1025616": 1,
+        "1026117": 1,
+        "1026236": 3,
+        "1026683": 1,
+        "1026728": 3,
+        "1026865": 4,
+        "1026981": 1,
+        "1027149": 1,
+        "1027251": 2,
+        "1027269": 1,
+        "1027310": 1,
+        "1028385": 2,
+        "1028391": 2,
+        "1028749": 1,
+        "1029643": 1,
+        "1032094": 1,
+        "1033669": 1,
+        "1034273": 2,
+        "1034568": 1,
+        "1034796": 1,
+        "1034799": 3,
+        "1034864": 1,
+        "1034888": 1,
+        "1034959": 1,
+        "1035055": 2,
+        "1035099": 1,
+        "1035142": 1,
+        "1035179": 1,
+        "1035201": 2,
+        "1035208": 1,
+        "1035314": 1,
+        "1035406": 1,
+        "1035525": 1,
+        "1035552": 1,
+        "1035674": 1,
+        "1035676": 2,
+        "1035890": 1,
+        "1035896": 1,
+        "1037051": 2,
+        "1037124": 1,
+        "1037275": 1,
+        "1037283": 1,
+        "1037324": 1,
+        "1038816": 1,
+        "1038926": 1,
+        "1039810": 2,
+        "1039899": 1,
+        "1041942": 1,
+        "1043866": 1,
+        "1045063": 1,
+        "1045208": 1,
+        "1045398": 1,
+        "1045445": 1,
+        "1045447": 1,
+        "1045561": 2,
+        "1045581": 1,
+        "1045596": 2,
+        "1045599": 1,
+        "1045617": 1,
+        "1045639": 1,
+        "1045669": 1,
+        "1045675": 1,
+        "1045740": 1,
+        "1045744": 1,
+        "1045750": 1,
+        "1046988": 1,
+        "1048740": 1,
+        "1049651": 1,
+        "1052917": 1,
+        "1053644": 1,
+        "1054961": 1,
+        "1062093": 1,
+        "1062442": 1,
+        "1065157": 1,
+        "1065541": 1,
+        "1066745": 1,
+        "1067237": 1,
+        "1067682": 1,
+        "1069077": 1,
+        "1081140": 1,
+        "1082296": 1,
+        "1082350": 1,
+        "1082445": 3,
+        "1082568": 1,
+        "1082734": 1,
+        "1084135": 1,
+        "1084199": 1,
+        "1084545": 1,
+        "1084712": 1,
+        "1084953": 1
+    },
+    "uniqueIncomingNumbers": {
+        "uniqueOutgoingNumbers": 0
+    },
+    "uniqueOutgoingNumbers": {
+        "uniqueOutgoingNumbers": 166
+    },
+    "relations": {
+        "1000055": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 31.944
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 11:45:39.257977+01",
+                    "answered": true,
+                    "duration": 31.944
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1001007": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 14:35:55.862531+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1001276": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 13:07:00.384392+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1001353": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 15:09:56.762004+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1001355": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 35.846
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 11:28:02.755592+01",
+                    "answered": true,
+                    "duration": 35.846
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1001432": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 200.712
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-12 15:04:32.483128+01",
+                    "answered": true,
+                    "duration": 200.712
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1002357": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 52.4
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 15:53:48.15006+01",
+                    "answered": true,
+                    "duration": 52.4
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1003680": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 193.553
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 11:39:54.390477+01",
+                    "answered": true,
+                    "duration": 193.553
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1004302": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 25.884
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 11:20:08.685127+01",
+                    "answered": true,
+                    "duration": 25.884
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1007016": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-12 10:46:36.384753+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1007019": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-12 15:47:10.398702+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1007022": {
+            "incomingCount": 0,
+            "outgoingCount": 2,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 38.032
+            },
+            "totalCount": 2,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-11 12:57:03.851812+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-12 10:48:53.74309+01",
+                    "answered": true,
+                    "duration": 38.032
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 78709.892
+        },
+        "1007042": {
+            "incomingCount": 0,
+            "outgoingCount": 2,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 2,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-11 12:43:07.572166+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-11 12:57:20.404005+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 852.832
+        },
+        "1007050": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-12 10:52:59.888018+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1007056": {
+            "incomingCount": 0,
+            "outgoingCount": 2,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 47.439
+            },
+            "totalCount": 2,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-12 10:56:52.532921+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 09:24:49.402457+01",
+                    "answered": true,
+                    "duration": 47.439
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 80876.87
+        },
+        "1007066": {
+            "incomingCount": 0,
+            "outgoingCount": 2,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 2,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-11 12:47:30.98032+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 15:29:16.169434+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 268905.189
+        },
+        "1007073": {
+            "incomingCount": 0,
+            "outgoingCount": 4,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 4,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-11 12:48:35.051189+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-12 11:03:09.063561+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 15:35:00.28411+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 09:52:20.282455+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 111675.077
+        },
+        "1010572": {
+            "incomingCount": 0,
+            "outgoingCount": 6,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 6,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-11 15:50:58.099977+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-12 10:58:48.843755+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 09:37:27.017599+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 14:03:48.62396+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 15:31:03.094109+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-18 13:52:26.863605+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 119537.75279999999
+        },
+        "1010575": {
+            "incomingCount": 0,
+            "outgoingCount": 2,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 2,
+                "averageTime": 72.494
+            },
+            "totalCount": 2,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-11 15:51:31.553573+01",
+                    "answered": true,
+                    "duration": 65.391
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 15:58:09.683565+01",
+                    "answered": true,
+                    "duration": 79.597
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 259598.13
+        },
+        "1010586": {
+            "incomingCount": 0,
+            "outgoingCount": 7,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 7,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-11 15:54:27.458623+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-12 11:20:20.349399+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 15:50:52.555861+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 15:51:00.063483+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 10:27:26.087304+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-19 09:50:48.117548+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-21 09:55:34.097483+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 140411.1065
+        },
+        "1010620": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 136.844
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-11 16:01:36.252522+01",
+                    "answered": true,
+                    "duration": 136.844
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1010742": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 11:26:35.333857+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1011091": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 11:24:25.001538+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1011743": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 81.352
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 14:05:00.159726+01",
+                    "answered": true,
+                    "duration": 81.352
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1011947": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 35.266
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 14:09:14.83882+01",
+                    "answered": true,
+                    "duration": 35.266
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1014435": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 15:35:50.466199+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1014623": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 38.289
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-12 11:00:31.283857+01",
+                    "answered": true,
+                    "duration": 38.289
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1014749": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-12 11:04:43.779668+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1014770": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 28.229
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 14:03:51.912436+01",
+                    "answered": true,
+                    "duration": 28.229
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1014986": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 92.24
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-12 11:29:33.615293+01",
+                    "answered": true,
+                    "duration": 92.24
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1015053": {
+            "incomingCount": 0,
+            "outgoingCount": 3,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 19.826
+            },
+            "totalCount": 3,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-19 10:02:12.879336+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-22 10:47:42.348146+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-25 15:12:39.020128+01",
+                    "answered": true,
+                    "duration": 19.826
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 268513.0705
+        },
+        "1015457": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 10:48:27.004209+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1015464": {
+            "incomingCount": 0,
+            "outgoingCount": 2,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 2,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 10:50:29.920047+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-25 15:14:31.150699+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 879841.23
+        },
+        "1015482": {
+            "incomingCount": 0,
+            "outgoingCount": 4,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 2,
+                "averageTime": 50.469
+            },
+            "totalCount": 4,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 10:35:35.047396+01",
+                    "answered": true,
+                    "duration": 45.375
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-19 10:56:35.606311+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-20 11:51:47.61892+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-21 10:35:45.680795+01",
+                    "answered": true,
+                    "duration": 55.563
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 230403.54433333335
+        },
+        "1015584": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 11:18:25.82496+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1015595": {
+            "incomingCount": 0,
+            "outgoingCount": 2,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 2,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 10:51:29.794599+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 13:41:46.463212+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 1219816.669
+        },
+        "1015608": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 34.827
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-19 11:07:06.330695+01",
+                    "answered": true,
+                    "duration": 34.827
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1015662": {
+            "incomingCount": 0,
+            "outgoingCount": 2,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 49.914
+            },
+            "totalCount": 2,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-12 13:30:06.046682+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-19 11:00:09.245242+01",
+                    "answered": true,
+                    "duration": 49.914
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 595803.199
+        },
+        "1015703": {
+            "incomingCount": 0,
+            "outgoingCount": 4,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 2,
+                "averageTime": 27.6145
+            },
+            "totalCount": 4,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-19 12:55:09.861634+01",
+                    "answered": true,
+                    "duration": 29.392
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-26 11:06:49.873986+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-26 11:09:08.0601+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 09:28:18.427245+01",
+                    "answered": true,
+                    "duration": 25.837
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 283862.8553333333
+        },
+        "1015745": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-22 11:40:08.502236+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1015760": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 68.482
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-12 13:43:47.188876+01",
+                    "answered": true,
+                    "duration": 68.482
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1015819": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 64.58
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 15:36:53.861959+01",
+                    "answered": true,
+                    "duration": 64.58
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1015831": {
+            "incomingCount": 0,
+            "outgoingCount": 2,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 63.89
+            },
+            "totalCount": 2,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-12 13:51:41.303617+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 10:57:48.244835+01",
+                    "answered": true,
+                    "duration": 63.89
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 248766.941
+        },
+        "1015880": {
+            "incomingCount": 0,
+            "outgoingCount": 3,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 3,
+                "averageTime": 23.92233333333333
+            },
+            "totalCount": 3,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-12 13:56:41.288524+01",
+                    "answered": true,
+                    "duration": 27.183
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-19 11:28:31.126699+01",
+                    "answered": true,
+                    "duration": 15.886
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-20 15:12:21.290659+01",
+                    "answered": true,
+                    "duration": 28.698
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 347870.001
+        },
+        "1018644": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 46.565
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-25 15:46:46.92942+01",
+                    "answered": true,
+                    "duration": 46.565
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1018948": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 216.116
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-12 15:31:44.59345+01",
+                    "answered": true,
+                    "duration": 216.116
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1019043": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-12 15:53:16.162437+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1019048": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 32.238
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-12 15:55:20.267222+01",
+                    "answered": true,
+                    "duration": 32.238
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1019303": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 2.178
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 10:05:41.349585+01",
+                    "answered": true,
+                    "duration": 2.178
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1020436": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 65.542
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 15:36:00.742516+01",
+                    "answered": true,
+                    "duration": 65.542
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1020559": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 42.375
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 09:58:52.080454+01",
+                    "answered": true,
+                    "duration": 42.375
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1020620": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 49.059
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 09:45:46.633167+01",
+                    "answered": true,
+                    "duration": 49.059
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1020626": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 45.566
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-26 14:33:44.175106+01",
+                    "answered": true,
+                    "duration": 45.566
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1020995": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 67.186
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 14:57:30.722441+01",
+                    "answered": true,
+                    "duration": 67.186
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1021669": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 21.695
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 10:34:14.686023+01",
+                    "answered": true,
+                    "duration": 21.695
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1021858": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 25.083
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 10:42:53.160552+01",
+                    "answered": true,
+                    "duration": 25.083
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1022001": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 49.762
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-25 15:34:02.969594+01",
+                    "answered": true,
+                    "duration": 49.762
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1022183": {
+            "incomingCount": 0,
+            "outgoingCount": 2,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 49.866
+            },
+            "totalCount": 2,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-21 11:03:04.363926+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-25 15:52:44.269647+01",
+                    "answered": true,
+                    "duration": 49.866
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 362979.906
+        },
+        "1022261": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 11:11:45.94629+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1022292": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 72.37
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 11:14:41.621508+01",
+                    "answered": true,
+                    "duration": 72.37
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1022527": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 120.348
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 14:37:07.261723+01",
+                    "answered": true,
+                    "duration": 120.348
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1022617": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 36.79
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-19 11:33:35.52897+01",
+                    "answered": true,
+                    "duration": 36.79
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1022643": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 19.904
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-28 10:32:08.757905+01",
+                    "answered": true,
+                    "duration": 19.904
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1022683": {
+            "incomingCount": 0,
+            "outgoingCount": 2,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 2,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 11:44:27.787764+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 11:59:47.434816+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 173719.647
+        },
+        "1022736": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 19.088
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-28 10:42:40.678467+01",
+                    "answered": true,
+                    "duration": 19.088
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1022752": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 15.13
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-22 11:41:32.184237+01",
+                    "answered": true,
+                    "duration": 15.13
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1022963": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 63.596
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 12:10:44.403205+01",
+                    "answered": true,
+                    "duration": 63.596
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1022974": {
+            "incomingCount": 0,
+            "outgoingCount": 3,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 28.384
+            },
+            "totalCount": 3,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 12:12:52.432374+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-26 14:22:40.883294+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-28 11:17:08.809326+01",
+                    "answered": true,
+                    "duration": 28.384
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 646328.1885
+        },
+        "1022979": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 53.705
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 12:13:51.772992+01",
+                    "answered": true,
+                    "duration": 53.705
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1022986": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 96.929
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-21 11:22:42.803309+01",
+                    "answered": true,
+                    "duration": 96.929
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1023012": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 90.68
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 15:00:12.961806+01",
+                    "answered": true,
+                    "duration": 90.68
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1023041": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 15:40:23.725754+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1023675": {
+            "incomingCount": 0,
+            "outgoingCount": 4,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 4,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-19 11:47:22.907133+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-19 11:47:28.226725+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-21 11:03:37.225439+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-25 15:51:17.99587+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 177678.36266666665
+        },
+        "1023835": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 187.221
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 13:53:53.607436+01",
+                    "answered": true,
+                    "duration": 187.221
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1024182": {
+            "incomingCount": 0,
+            "outgoingCount": 2,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 34.242
+            },
+            "totalCount": 2,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-19 12:50:16.670344+01",
+                    "answered": true,
+                    "duration": 34.242
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-26 14:23:54.128628+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 610417.458
+        },
+        "1025565": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-28 11:18:18.229182+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1025616": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-21 12:39:42.091957+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1026117": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 71.952
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 14:32:39.891943+01",
+                    "answered": true,
+                    "duration": 71.952
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1026236": {
+            "incomingCount": 0,
+            "outgoingCount": 3,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 3,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 14:35:10.322233+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-19 13:57:02.362423+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-21 12:59:36.980139+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 342733.329
+        },
+        "1026683": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 14:41:41.306808+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1026728": {
+            "incomingCount": 0,
+            "outgoingCount": 3,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 176.376
+            },
+            "totalCount": 3,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-19 14:12:56.507921+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-19 14:18:43.451595+01",
+                    "answered": true,
+                    "duration": 176.376
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-26 14:31:49.840564+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 346.944
+        },
+        "1026865": {
+            "incomingCount": 0,
+            "outgoingCount": 4,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 4,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 14:44:49.591636+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-21 13:04:02.154773+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-21 13:04:16.20657+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-26 14:31:09.915955+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 374126.7746666667
+        },
+        "1026981": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 140.369
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 14:48:37.675626+01",
+                    "answered": true,
+                    "duration": 140.369
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1027149": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 72.045
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 10:43:23.934925+01",
+                    "answered": true,
+                    "duration": 72.045
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1027251": {
+            "incomingCount": 0,
+            "outgoingCount": 2,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 2,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 14:56:17.845672+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-19 14:15:35.564559+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 515957.719
+        },
+        "1027269": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 52.649
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-13 14:57:26.199272+01",
+                    "answered": true,
+                    "duration": 52.649
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1027310": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 13:18:34.074396+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1028385": {
+            "incomingCount": 0,
+            "outgoingCount": 2,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 2,
+                "averageTime": 60.30200000000001
+            },
+            "totalCount": 2,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-19 15:36:57.199675+01",
+                    "answered": true,
+                    "duration": 75.805
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-28 11:20:12.550282+01",
+                    "answered": true,
+                    "duration": 44.799
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 762195.351
+        },
+        "1028391": {
+            "incomingCount": 0,
+            "outgoingCount": 2,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 2,
+                "averageTime": 33.9565
+            },
+            "totalCount": 2,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 10:02:21.652418+01",
+                    "answered": true,
+                    "duration": 63.148
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 09:46:14.947478+01",
+                    "answered": true,
+                    "duration": 4.765
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 1295033.295
+        },
+        "1028749": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 15:42:06.341172+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1029643": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 15:45:59.241795+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1032094": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-19 15:30:28.071155+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1033669": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 10:36:58.952041+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1034273": {
+            "incomingCount": 0,
+            "outgoingCount": 2,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 2,
+                "averageTime": 29.494
+            },
+            "totalCount": 2,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 10:46:55.876332+01",
+                    "answered": true,
+                    "duration": 31.463
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 09:52:45.223282+01",
+                    "answered": true,
+                    "duration": 27.525
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 1292749.347
+        },
+        "1034568": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 30.625
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 10:53:39.191277+01",
+                    "answered": true,
+                    "duration": 30.625
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1034796": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 11:09:06.438809+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1034799": {
+            "incomingCount": 0,
+            "outgoingCount": 3,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 2,
+                "averageTime": 65.41149999999999
+            },
+            "totalCount": 3,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 11:09:23.153319+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 11:09:31.289868+01",
+                    "answered": true,
+                    "duration": 81.085
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-26 15:59:17.413845+01",
+                    "answered": true,
+                    "duration": 49.738
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 8.136
+        },
+        "1034864": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 11:12:38.999611+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1034888": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 49.42
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 11:13:14.015831+01",
+                    "answered": true,
+                    "duration": 49.42
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1034959": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 11:15:49.22228+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1035055": {
+            "incomingCount": 0,
+            "outgoingCount": 2,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 74.045
+            },
+            "totalCount": 2,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 11:20:33.750634+01",
+                    "answered": true,
+                    "duration": 74.045
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-21 13:01:28.062769+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 610854.312
+        },
+        "1035099": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 49.09
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 11:23:23.246104+01",
+                    "answered": true,
+                    "duration": 49.09
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1035142": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 44.069
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 11:25:08.810776+01",
+                    "answered": true,
+                    "duration": 44.069
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1035179": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 43.189
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 11:26:51.414204+01",
+                    "answered": true,
+                    "duration": 43.189
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1035201": {
+            "incomingCount": 0,
+            "outgoingCount": 2,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 32.395
+            },
+            "totalCount": 2,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 11:28:21.179215+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 11:31:23.357801+01",
+                    "answered": true,
+                    "duration": 32.395
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 182.178
+        },
+        "1035208": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 11:29:04.128017+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1035314": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 11:36:47.336033+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1035406": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 115.518
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 11:42:48.290584+01",
+                    "answered": true,
+                    "duration": 115.518
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1035525": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 39.466
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 11:48:08.242755+01",
+                    "answered": true,
+                    "duration": 39.466
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1035552": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 83.461
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-26 15:52:37.509222+01",
+                    "answered": true,
+                    "duration": 83.461
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1035674": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 60.396
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 15:21:24.463538+01",
+                    "answered": true,
+                    "duration": 60.396
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1035676": {
+            "incomingCount": 0,
+            "outgoingCount": 2,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 25.07
+            },
+            "totalCount": 2,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-28 11:28:06.206791+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 10:15:57.068946+01",
+                    "answered": true,
+                    "duration": 25.07
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 82070.862
+        },
+        "1035890": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-28 11:26:36.36979+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1035896": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 37.175
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-26 16:01:04.178269+01",
+                    "answered": true,
+                    "duration": 37.175
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1037051": {
+            "incomingCount": 0,
+            "outgoingCount": 2,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 2,
+                "averageTime": 85.6855
+            },
+            "totalCount": 2,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 13:36:10.63916+01",
+                    "answered": true,
+                    "duration": 58.829
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-21 16:39:06.848166+01",
+                    "answered": true,
+                    "duration": 112.542
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 615776.209
+        },
+        "1037124": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 10:36:10.370941+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1037275": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 114.514
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 13:25:11.481908+01",
+                    "answered": true,
+                    "duration": 114.514
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1037283": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 13:48:51.448087+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1037324": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 31.608
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 13:31:46.01468+01",
+                    "answered": true,
+                    "duration": 31.608
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1038816": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 16:02:52.370859+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1038926": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 26.827
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-28 11:44:40.03353+01",
+                    "answered": true,
+                    "duration": 26.827
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1039810": {
+            "incomingCount": 0,
+            "outgoingCount": 2,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 28.532
+            },
+            "totalCount": 2,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 15:38:02.66534+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-18 13:57:29.105187+01",
+                    "answered": true,
+                    "duration": 28.532
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 339566.44
+        },
+        "1039899": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 67.086
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-14 15:43:50.076146+01",
+                    "answered": true,
+                    "duration": 67.086
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1041942": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 33.451
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 09:27:03.690374+01",
+                    "answered": true,
+                    "duration": 33.451
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1043866": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 11:00:33.204871+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1045063": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 13:24:01.698033+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1045208": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 59.408
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-28 13:28:43.749189+01",
+                    "answered": true,
+                    "duration": 59.408
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1045398": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 40.071
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 14:13:35.878155+01",
+                    "answered": true,
+                    "duration": 40.071
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1045445": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 192.231
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 14:27:28.64692+01",
+                    "answered": true,
+                    "duration": 192.231
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1045447": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 14:21:17.934868+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1045561": {
+            "incomingCount": 0,
+            "outgoingCount": 2,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 2,
+                "averageTime": 21.087500000000002
+            },
+            "totalCount": 2,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 14:36:02.634037+01",
+                    "answered": true,
+                    "duration": 4.109
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 14:37:15.366191+01",
+                    "answered": true,
+                    "duration": 38.066
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 72.732
+        },
+        "1045581": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 2.072
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 14:38:43.989397+01",
+                    "answered": true,
+                    "duration": 2.072
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1045596": {
+            "incomingCount": 0,
+            "outgoingCount": 2,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 30.112
+            },
+            "totalCount": 2,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 14:40:04.451291+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 14:42:43.405063+01",
+                    "answered": true,
+                    "duration": 30.112
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 158.954
+        },
+        "1045599": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 44.614
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 14:40:29.040878+01",
+                    "answered": true,
+                    "duration": 44.614
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1045617": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 98.897
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 14:43:37.079657+01",
+                    "answered": true,
+                    "duration": 98.897
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1045639": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 45.932
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-28 13:26:48.263223+01",
+                    "answered": true,
+                    "duration": 45.932
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1045669": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 14:52:04.246927+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1045675": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 31.34
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 14:53:08.411472+01",
+                    "answered": true,
+                    "duration": 31.34
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1045740": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 69.015
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 15:03:35.516152+01",
+                    "answered": true,
+                    "duration": 69.015
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1045744": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 45.78
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 15:06:18.130967+01",
+                    "answered": true,
+                    "duration": 45.78
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1045750": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-15 15:07:45.408512+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1046988": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-19 14:05:29.859327+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1048740": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-18 14:03:39.941025+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1049651": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 174.717
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-19 15:50:45.619666+01",
+                    "answered": true,
+                    "duration": 174.717
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1052917": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-19 14:23:07.172464+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1053644": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-22 12:52:52.828544+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1054961": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 114.406
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-20 15:13:50.545519+01",
+                    "answered": true,
+                    "duration": 114.406
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1062093": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 203.718
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-21 14:52:45.082144+01",
+                    "answered": true,
+                    "duration": 203.718
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1062442": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 188.053
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-21 16:24:22.467214+01",
+                    "answered": true,
+                    "duration": 188.053
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1065157": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 239.95
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-22 11:00:37.314631+01",
+                    "answered": true,
+                    "duration": 239.95
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1065541": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-22 14:05:35.382896+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1066745": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 22.555
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-22 13:03:25.176436+01",
+                    "answered": true,
+                    "duration": 22.555
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1067237": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-22 14:53:00.294596+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1067682": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-25 16:02:13.01962+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1069077": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 134.927
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-25 12:45:35.975251+01",
+                    "answered": true,
+                    "duration": 134.927
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1081140": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 23.609
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-28 12:33:50.276496+01",
+                    "answered": true,
+                    "duration": 23.609
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1082296": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 13.672
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-28 14:40:50.074095+01",
+                    "answered": true,
+                    "duration": 13.672
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1082350": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 63.87
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-28 14:52:45.881567+01",
+                    "answered": true,
+                    "duration": 63.87
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1082445": {
+            "incomingCount": 0,
+            "outgoingCount": 3,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 3,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-28 15:02:24.842575+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-28 15:03:02.154986+01",
+                    "answered": false,
+                    "duration": 0
+                },
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 11:12:49.952903+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 36312.555
+        },
+        "1082568": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 104.862
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-02-28 15:27:47.783322+01",
+                    "answered": true,
+                    "duration": 104.862
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1082734": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 89.218
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 10:56:23.034365+01",
+                    "answered": true,
+                    "duration": 89.218
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1084135": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 408.214
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 11:29:09.113672+01",
+                    "answered": true,
+                    "duration": 408.214
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1084199": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 11:43:52.629042+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1084545": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 14:14:28.410154+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        },
+        "1084712": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 1,
+                "averageTime": 100.95
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 14:40:26.487666+01",
+                    "answered": true,
+                    "duration": 100.95
+                }
+            ],
+            "primeryAnswer": true,
+            "interTimeArrival": 0
+        },
+        "1084953": {
+            "incomingCount": 0,
+            "outgoingCount": 1,
+            "durationIncoming": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "durationOutgoing": {
+                "answered": 0,
+                "averageTime": 0
+            },
+            "totalCount": 1,
+            "callProcess": [
+                {
+                    "type": "outgoing",
+                    "date": "2019-03-01 15:31:27.022455+01",
+                    "answered": false,
+                    "duration": 0
+                }
+            ],
+            "primeryAnswer": false,
+            "interTimeArrival": 0
+        }
+    }
+}
